@@ -1,0 +1,4052 @@
+{
+    "Insert icon:glass": {
+        "prefix": "icon:glass[]",
+        "body": [ "icon:glass[]" ,"$0" ],
+        "description": "adding icon:glass "
+    },
+
+    "Insert icon:music": {
+        "prefix": "icon:music[]",
+        "body": [ "icon:music[]" ,"$0" ],
+        "description": "adding icon:music "
+    },
+
+    "Insert icon:search": {
+        "prefix": "icon:search[]",
+        "body": [ "icon:search[]" ,"$0" ],
+        "description": "adding icon:search "
+    },
+
+    "Insert icon:envelope-o": {
+        "prefix": "icon:envelope-o[]",
+        "body": [ "icon:envelope-o[]" ,"$0" ],
+        "description": "adding icon:envelope-o "
+    },
+
+    "Insert icon:heart": {
+        "prefix": "icon:heart[]",
+        "body": [ "icon:heart[]" ,"$0" ],
+        "description": "adding icon:heart "
+    },
+
+    "Insert icon:star": {
+        "prefix": "icon:star[]",
+        "body": [ "icon:star[]" ,"$0" ],
+        "description": "adding icon:star "
+    },
+
+    "Insert icon:star-o": {
+        "prefix": "icon:star-o[]",
+        "body": [ "icon:star-o[]" ,"$0" ],
+        "description": "adding icon:star-o "
+    },
+
+    "Insert icon:user": {
+        "prefix": "icon:user[]",
+        "body": [ "icon:user[]" ,"$0" ],
+        "description": "adding icon:user "
+    },
+
+    "Insert icon:film": {
+        "prefix": "icon:film[]",
+        "body": [ "icon:film[]" ,"$0" ],
+        "description": "adding icon:film "
+    },
+
+    "Insert icon:th-large": {
+        "prefix": "icon:th-large[]",
+        "body": [ "icon:th-large[]" ,"$0" ],
+        "description": "adding icon:th-large "
+    },
+
+    "Insert icon:th": {
+        "prefix": "icon:th[]",
+        "body": [ "icon:th[]" ,"$0" ],
+        "description": "adding icon:th "
+    },
+
+    "Insert icon:th-list": {
+        "prefix": "icon:th-list[]",
+        "body": [ "icon:th-list[]" ,"$0" ],
+        "description": "adding icon:th-list "
+    },
+
+    "Insert icon:check": {
+        "prefix": "icon:check[]",
+        "body": [ "icon:check[]" ,"$0" ],
+        "description": "adding icon:check "
+    },
+
+    "Insert icon:times": {
+        "prefix": "icon:times[]",
+        "body": [ "icon:times[]" ,"$0" ],
+        "description": "adding icon:times "
+    },
+
+    "Insert icon:search-plus": {
+        "prefix": "icon:search-plus[]",
+        "body": [ "icon:search-plus[]" ,"$0" ],
+        "description": "adding icon:search-plus "
+    },
+
+    "Insert icon:search-minus": {
+        "prefix": "icon:search-minus[]",
+        "body": [ "icon:search-minus[]" ,"$0" ],
+        "description": "adding icon:search-minus "
+    },
+
+    "Insert icon:power-off": {
+        "prefix": "icon:power-off[]",
+        "body": [ "icon:power-off[]" ,"$0" ],
+        "description": "adding icon:power-off "
+    },
+
+    "Insert icon:signal": {
+        "prefix": "icon:signal[]",
+        "body": [ "icon:signal[]" ,"$0" ],
+        "description": "adding icon:signal "
+    },
+
+    "Insert icon:cog": {
+        "prefix": "icon:cog[]",
+        "body": [ "icon:cog[]" ,"$0" ],
+        "description": "adding icon:cog "
+    },
+
+    "Insert icon:trash-o": {
+        "prefix": "icon:trash-o[]",
+        "body": [ "icon:trash-o[]" ,"$0" ],
+        "description": "adding icon:trash-o "
+    },
+
+    "Insert icon:home": {
+        "prefix": "icon:home[]",
+        "body": [ "icon:home[]" ,"$0" ],
+        "description": "adding icon:home "
+    },
+
+    "Insert icon:file-o": {
+        "prefix": "icon:file-o[]",
+        "body": [ "icon:file-o[]" ,"$0" ],
+        "description": "adding icon:file-o "
+    },
+
+    "Insert icon:clock-o": {
+        "prefix": "icon:clock-o[]",
+        "body": [ "icon:clock-o[]" ,"$0" ],
+        "description": "adding icon:clock-o "
+    },
+
+    "Insert icon:road": {
+        "prefix": "icon:road[]",
+        "body": [ "icon:road[]" ,"$0" ],
+        "description": "adding icon:road "
+    },
+
+    "Insert icon:download": {
+        "prefix": "icon:download[]",
+        "body": [ "icon:download[]" ,"$0" ],
+        "description": "adding icon:download "
+    },
+
+    "Insert icon:arrow-circle-o-down": {
+        "prefix": "icon:arrow-circle-o-down[]",
+        "body": [ "icon:arrow-circle-o-down[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-o-down "
+    },
+
+    "Insert icon:arrow-circle-o-up": {
+        "prefix": "icon:arrow-circle-o-up[]",
+        "body": [ "icon:arrow-circle-o-up[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-o-up "
+    },
+
+    "Insert icon:inbox": {
+        "prefix": "icon:inbox[]",
+        "body": [ "icon:inbox[]" ,"$0" ],
+        "description": "adding icon:inbox "
+    },
+
+    "Insert icon:play-circle-o": {
+        "prefix": "icon:play-circle-o[]",
+        "body": [ "icon:play-circle-o[]" ,"$0" ],
+        "description": "adding icon:play-circle-o "
+    },
+
+    "Insert icon:repeat": {
+        "prefix": "icon:repeat[]",
+        "body": [ "icon:repeat[]" ,"$0" ],
+        "description": "adding icon:repeat "
+    },
+
+    "Insert icon:refresh": {
+        "prefix": "icon:refresh[]",
+        "body": [ "icon:refresh[]" ,"$0" ],
+        "description": "adding icon:refresh "
+    },
+
+    "Insert icon:list-alt": {
+        "prefix": "icon:list-alt[]",
+        "body": [ "icon:list-alt[]" ,"$0" ],
+        "description": "adding icon:list-alt "
+    },
+
+    "Insert icon:lock": {
+        "prefix": "icon:lock[]",
+        "body": [ "icon:lock[]" ,"$0" ],
+        "description": "adding icon:lock "
+    },
+
+    "Insert icon:flag": {
+        "prefix": "icon:flag[]",
+        "body": [ "icon:flag[]" ,"$0" ],
+        "description": "adding icon:flag "
+    },
+
+    "Insert icon:headphones": {
+        "prefix": "icon:headphones[]",
+        "body": [ "icon:headphones[]" ,"$0" ],
+        "description": "adding icon:headphones "
+    },
+
+    "Insert icon:volume-off": {
+        "prefix": "icon:volume-off[]",
+        "body": [ "icon:volume-off[]" ,"$0" ],
+        "description": "adding icon:volume-off "
+    },
+
+    "Insert icon:volume-down": {
+        "prefix": "icon:volume-down[]",
+        "body": [ "icon:volume-down[]" ,"$0" ],
+        "description": "adding icon:volume-down "
+    },
+
+    "Insert icon:volume-up": {
+        "prefix": "icon:volume-up[]",
+        "body": [ "icon:volume-up[]" ,"$0" ],
+        "description": "adding icon:volume-up "
+    },
+
+    "Insert icon:qrcode": {
+        "prefix": "icon:qrcode[]",
+        "body": [ "icon:qrcode[]" ,"$0" ],
+        "description": "adding icon:qrcode "
+    },
+
+    "Insert icon:barcode": {
+        "prefix": "icon:barcode[]",
+        "body": [ "icon:barcode[]" ,"$0" ],
+        "description": "adding icon:barcode "
+    },
+
+    "Insert icon:tag": {
+        "prefix": "icon:tag[]",
+        "body": [ "icon:tag[]" ,"$0" ],
+        "description": "adding icon:tag "
+    },
+
+    "Insert icon:tags": {
+        "prefix": "icon:tags[]",
+        "body": [ "icon:tags[]" ,"$0" ],
+        "description": "adding icon:tags "
+    },
+
+    "Insert icon:book": {
+        "prefix": "icon:book[]",
+        "body": [ "icon:book[]" ,"$0" ],
+        "description": "adding icon:book "
+    },
+
+    "Insert icon:bookmark": {
+        "prefix": "icon:bookmark[]",
+        "body": [ "icon:bookmark[]" ,"$0" ],
+        "description": "adding icon:bookmark "
+    },
+
+    "Insert icon:print": {
+        "prefix": "icon:print[]",
+        "body": [ "icon:print[]" ,"$0" ],
+        "description": "adding icon:print "
+    },
+
+    "Insert icon:camera": {
+        "prefix": "icon:camera[]",
+        "body": [ "icon:camera[]" ,"$0" ],
+        "description": "adding icon:camera "
+    },
+
+    "Insert icon:font": {
+        "prefix": "icon:font[]",
+        "body": [ "icon:font[]" ,"$0" ],
+        "description": "adding icon:font "
+    },
+
+    "Insert icon:bold": {
+        "prefix": "icon:bold[]",
+        "body": [ "icon:bold[]" ,"$0" ],
+        "description": "adding icon:bold "
+    },
+
+    "Insert icon:italic": {
+        "prefix": "icon:italic[]",
+        "body": [ "icon:italic[]" ,"$0" ],
+        "description": "adding icon:italic "
+    },
+
+    "Insert icon:text-height": {
+        "prefix": "icon:text-height[]",
+        "body": [ "icon:text-height[]" ,"$0" ],
+        "description": "adding icon:text-height "
+    },
+
+    "Insert icon:text-width": {
+        "prefix": "icon:text-width[]",
+        "body": [ "icon:text-width[]" ,"$0" ],
+        "description": "adding icon:text-width "
+    },
+
+    "Insert icon:align-left": {
+        "prefix": "icon:align-left[]",
+        "body": [ "icon:align-left[]" ,"$0" ],
+        "description": "adding icon:align-left "
+    },
+
+    "Insert icon:align-center": {
+        "prefix": "icon:align-center[]",
+        "body": [ "icon:align-center[]" ,"$0" ],
+        "description": "adding icon:align-center "
+    },
+
+    "Insert icon:align-right": {
+        "prefix": "icon:align-right[]",
+        "body": [ "icon:align-right[]" ,"$0" ],
+        "description": "adding icon:align-right "
+    },
+
+    "Insert icon:align-justify": {
+        "prefix": "icon:align-justify[]",
+        "body": [ "icon:align-justify[]" ,"$0" ],
+        "description": "adding icon:align-justify "
+    },
+
+    "Insert icon:list": {
+        "prefix": "icon:list[]",
+        "body": [ "icon:list[]" ,"$0" ],
+        "description": "adding icon:list "
+    },
+
+    "Insert icon:outdent": {
+        "prefix": "icon:outdent[]",
+        "body": [ "icon:outdent[]" ,"$0" ],
+        "description": "adding icon:outdent "
+    },
+
+    "Insert icon:indent": {
+        "prefix": "icon:indent[]",
+        "body": [ "icon:indent[]" ,"$0" ],
+        "description": "adding icon:indent "
+    },
+
+    "Insert icon:video-camera": {
+        "prefix": "icon:video-camera[]",
+        "body": [ "icon:video-camera[]" ,"$0" ],
+        "description": "adding icon:video-camera "
+    },
+
+    "Insert icon:picture-o": {
+        "prefix": "icon:picture-o[]",
+        "body": [ "icon:picture-o[]" ,"$0" ],
+        "description": "adding icon:picture-o "
+    },
+
+    "Insert icon:pencil": {
+        "prefix": "icon:pencil[]",
+        "body": [ "icon:pencil[]" ,"$0" ],
+        "description": "adding icon:pencil "
+    },
+
+    "Insert icon:map-marker": {
+        "prefix": "icon:map-marker[]",
+        "body": [ "icon:map-marker[]" ,"$0" ],
+        "description": "adding icon:map-marker "
+    },
+
+    "Insert icon:adjust": {
+        "prefix": "icon:adjust[]",
+        "body": [ "icon:adjust[]" ,"$0" ],
+        "description": "adding icon:adjust "
+    },
+
+    "Insert icon:tint": {
+        "prefix": "icon:tint[]",
+        "body": [ "icon:tint[]" ,"$0" ],
+        "description": "adding icon:tint "
+    },
+
+    "Insert icon:pencil-square-o": {
+        "prefix": "icon:pencil-square-o[]",
+        "body": [ "icon:pencil-square-o[]" ,"$0" ],
+        "description": "adding icon:pencil-square-o "
+    },
+
+    "Insert icon:share-square-o": {
+        "prefix": "icon:share-square-o[]",
+        "body": [ "icon:share-square-o[]" ,"$0" ],
+        "description": "adding icon:share-square-o "
+    },
+
+    "Insert icon:check-square-o": {
+        "prefix": "icon:check-square-o[]",
+        "body": [ "icon:check-square-o[]" ,"$0" ],
+        "description": "adding icon:check-square-o "
+    },
+
+    "Insert icon:arrows": {
+        "prefix": "icon:arrows[]",
+        "body": [ "icon:arrows[]" ,"$0" ],
+        "description": "adding icon:arrows "
+    },
+
+    "Insert icon:step-backward": {
+        "prefix": "icon:step-backward[]",
+        "body": [ "icon:step-backward[]" ,"$0" ],
+        "description": "adding icon:step-backward "
+    },
+
+    "Insert icon:fast-backward": {
+        "prefix": "icon:fast-backward[]",
+        "body": [ "icon:fast-backward[]" ,"$0" ],
+        "description": "adding icon:fast-backward "
+    },
+
+    "Insert icon:backward": {
+        "prefix": "icon:backward[]",
+        "body": [ "icon:backward[]" ,"$0" ],
+        "description": "adding icon:backward "
+    },
+
+    "Insert icon:play": {
+        "prefix": "icon:play[]",
+        "body": [ "icon:play[]" ,"$0" ],
+        "description": "adding icon:play "
+    },
+
+    "Insert icon:pause": {
+        "prefix": "icon:pause[]",
+        "body": [ "icon:pause[]" ,"$0" ],
+        "description": "adding icon:pause "
+    },
+
+    "Insert icon:stop": {
+        "prefix": "icon:stop[]",
+        "body": [ "icon:stop[]" ,"$0" ],
+        "description": "adding icon:stop "
+    },
+
+    "Insert icon:forward": {
+        "prefix": "icon:forward[]",
+        "body": [ "icon:forward[]" ,"$0" ],
+        "description": "adding icon:forward "
+    },
+
+    "Insert icon:fast-forward": {
+        "prefix": "icon:fast-forward[]",
+        "body": [ "icon:fast-forward[]" ,"$0" ],
+        "description": "adding icon:fast-forward "
+    },
+
+    "Insert icon:step-forward": {
+        "prefix": "icon:step-forward[]",
+        "body": [ "icon:step-forward[]" ,"$0" ],
+        "description": "adding icon:step-forward "
+    },
+
+    "Insert icon:eject": {
+        "prefix": "icon:eject[]",
+        "body": [ "icon:eject[]" ,"$0" ],
+        "description": "adding icon:eject "
+    },
+
+    "Insert icon:chevron-left": {
+        "prefix": "icon:chevron-left[]",
+        "body": [ "icon:chevron-left[]" ,"$0" ],
+        "description": "adding icon:chevron-left "
+    },
+
+    "Insert icon:chevron-right": {
+        "prefix": "icon:chevron-right[]",
+        "body": [ "icon:chevron-right[]" ,"$0" ],
+        "description": "adding icon:chevron-right "
+    },
+
+    "Insert icon:plus-circle": {
+        "prefix": "icon:plus-circle[]",
+        "body": [ "icon:plus-circle[]" ,"$0" ],
+        "description": "adding icon:plus-circle "
+    },
+
+    "Insert icon:minus-circle": {
+        "prefix": "icon:minus-circle[]",
+        "body": [ "icon:minus-circle[]" ,"$0" ],
+        "description": "adding icon:minus-circle "
+    },
+
+    "Insert icon:times-circle": {
+        "prefix": "icon:times-circle[]",
+        "body": [ "icon:times-circle[]" ,"$0" ],
+        "description": "adding icon:times-circle "
+    },
+
+    "Insert icon:check-circle": {
+        "prefix": "icon:check-circle[]",
+        "body": [ "icon:check-circle[]" ,"$0" ],
+        "description": "adding icon:check-circle "
+    },
+
+    "Insert icon:question-circle": {
+        "prefix": "icon:question-circle[]",
+        "body": [ "icon:question-circle[]" ,"$0" ],
+        "description": "adding icon:question-circle "
+    },
+
+    "Insert icon:info-circle": {
+        "prefix": "icon:info-circle[]",
+        "body": [ "icon:info-circle[]" ,"$0" ],
+        "description": "adding icon:info-circle "
+    },
+
+    "Insert icon:crosshairs": {
+        "prefix": "icon:crosshairs[]",
+        "body": [ "icon:crosshairs[]" ,"$0" ],
+        "description": "adding icon:crosshairs "
+    },
+
+    "Insert icon:times-circle-o": {
+        "prefix": "icon:times-circle-o[]",
+        "body": [ "icon:times-circle-o[]" ,"$0" ],
+        "description": "adding icon:times-circle-o "
+    },
+
+    "Insert icon:check-circle-o": {
+        "prefix": "icon:check-circle-o[]",
+        "body": [ "icon:check-circle-o[]" ,"$0" ],
+        "description": "adding icon:check-circle-o "
+    },
+
+    "Insert icon:ban": {
+        "prefix": "icon:ban[]",
+        "body": [ "icon:ban[]" ,"$0" ],
+        "description": "adding icon:ban "
+    },
+
+    "Insert icon:arrow-left": {
+        "prefix": "icon:arrow-left[]",
+        "body": [ "icon:arrow-left[]" ,"$0" ],
+        "description": "adding icon:arrow-left "
+    },
+
+    "Insert icon:arrow-right": {
+        "prefix": "icon:arrow-right[]",
+        "body": [ "icon:arrow-right[]" ,"$0" ],
+        "description": "adding icon:arrow-right "
+    },
+
+    "Insert icon:arrow-up": {
+        "prefix": "icon:arrow-up[]",
+        "body": [ "icon:arrow-up[]" ,"$0" ],
+        "description": "adding icon:arrow-up "
+    },
+
+    "Insert icon:arrow-down": {
+        "prefix": "icon:arrow-down[]",
+        "body": [ "icon:arrow-down[]" ,"$0" ],
+        "description": "adding icon:arrow-down "
+    },
+
+    "Insert icon:share": {
+        "prefix": "icon:share[]",
+        "body": [ "icon:share[]" ,"$0" ],
+        "description": "adding icon:share "
+    },
+
+    "Insert icon:expand": {
+        "prefix": "icon:expand[]",
+        "body": [ "icon:expand[]" ,"$0" ],
+        "description": "adding icon:expand "
+    },
+
+    "Insert icon:compress": {
+        "prefix": "icon:compress[]",
+        "body": [ "icon:compress[]" ,"$0" ],
+        "description": "adding icon:compress "
+    },
+
+    "Insert icon:plus": {
+        "prefix": "icon:plus[]",
+        "body": [ "icon:plus[]" ,"$0" ],
+        "description": "adding icon:plus "
+    },
+
+    "Insert icon:minus": {
+        "prefix": "icon:minus[]",
+        "body": [ "icon:minus[]" ,"$0" ],
+        "description": "adding icon:minus "
+    },
+
+    "Insert icon:asterisk": {
+        "prefix": "icon:asterisk[]",
+        "body": [ "icon:asterisk[]" ,"$0" ],
+        "description": "adding icon:asterisk "
+    },
+
+    "Insert icon:exclamation-circle": {
+        "prefix": "icon:exclamation-circle[]",
+        "body": [ "icon:exclamation-circle[]" ,"$0" ],
+        "description": "adding icon:exclamation-circle "
+    },
+
+    "Insert icon:gift": {
+        "prefix": "icon:gift[]",
+        "body": [ "icon:gift[]" ,"$0" ],
+        "description": "adding icon:gift "
+    },
+
+    "Insert icon:leaf": {
+        "prefix": "icon:leaf[]",
+        "body": [ "icon:leaf[]" ,"$0" ],
+        "description": "adding icon:leaf "
+    },
+
+    "Insert icon:fire": {
+        "prefix": "icon:fire[]",
+        "body": [ "icon:fire[]" ,"$0" ],
+        "description": "adding icon:fire "
+    },
+
+    "Insert icon:eye": {
+        "prefix": "icon:eye[]",
+        "body": [ "icon:eye[]" ,"$0" ],
+        "description": "adding icon:eye "
+    },
+
+    "Insert icon:eye-slash": {
+        "prefix": "icon:eye-slash[]",
+        "body": [ "icon:eye-slash[]" ,"$0" ],
+        "description": "adding icon:eye-slash "
+    },
+
+    "Insert icon:exclamation-triangle": {
+        "prefix": "icon:exclamation-triangle[]",
+        "body": [ "icon:exclamation-triangle[]" ,"$0" ],
+        "description": "adding icon:exclamation-triangle "
+    },
+
+    "Insert icon:plane": {
+        "prefix": "icon:plane[]",
+        "body": [ "icon:plane[]" ,"$0" ],
+        "description": "adding icon:plane "
+    },
+
+    "Insert icon:calendar": {
+        "prefix": "icon:calendar[]",
+        "body": [ "icon:calendar[]" ,"$0" ],
+        "description": "adding icon:calendar "
+    },
+
+    "Insert icon:random": {
+        "prefix": "icon:random[]",
+        "body": [ "icon:random[]" ,"$0" ],
+        "description": "adding icon:random "
+    },
+
+    "Insert icon:comment": {
+        "prefix": "icon:comment[]",
+        "body": [ "icon:comment[]" ,"$0" ],
+        "description": "adding icon:comment "
+    },
+
+    "Insert icon:magnet": {
+        "prefix": "icon:magnet[]",
+        "body": [ "icon:magnet[]" ,"$0" ],
+        "description": "adding icon:magnet "
+    },
+
+    "Insert icon:chevron-up": {
+        "prefix": "icon:chevron-up[]",
+        "body": [ "icon:chevron-up[]" ,"$0" ],
+        "description": "adding icon:chevron-up "
+    },
+
+    "Insert icon:chevron-down": {
+        "prefix": "icon:chevron-down[]",
+        "body": [ "icon:chevron-down[]" ,"$0" ],
+        "description": "adding icon:chevron-down "
+    },
+
+    "Insert icon:retweet": {
+        "prefix": "icon:retweet[]",
+        "body": [ "icon:retweet[]" ,"$0" ],
+        "description": "adding icon:retweet "
+    },
+
+    "Insert icon:shopping-cart": {
+        "prefix": "icon:shopping-cart[]",
+        "body": [ "icon:shopping-cart[]" ,"$0" ],
+        "description": "adding icon:shopping-cart "
+    },
+
+    "Insert icon:folder": {
+        "prefix": "icon:folder[]",
+        "body": [ "icon:folder[]" ,"$0" ],
+        "description": "adding icon:folder "
+    },
+
+    "Insert icon:folder-open": {
+        "prefix": "icon:folder-open[]",
+        "body": [ "icon:folder-open[]" ,"$0" ],
+        "description": "adding icon:folder-open "
+    },
+
+    "Insert icon:arrows-v": {
+        "prefix": "icon:arrows-v[]",
+        "body": [ "icon:arrows-v[]" ,"$0" ],
+        "description": "adding icon:arrows-v "
+    },
+
+    "Insert icon:arrows-h": {
+        "prefix": "icon:arrows-h[]",
+        "body": [ "icon:arrows-h[]" ,"$0" ],
+        "description": "adding icon:arrows-h "
+    },
+
+    "Insert icon:bar-chart": {
+        "prefix": "icon:bar-chart[]",
+        "body": [ "icon:bar-chart[]" ,"$0" ],
+        "description": "adding icon:bar-chart "
+    },
+
+    "Insert icon:twitter-square": {
+        "prefix": "icon:twitter-square[]",
+        "body": [ "icon:twitter-square[]" ,"$0" ],
+        "description": "adding icon:twitter-square "
+    },
+
+    "Insert icon:facebook-square": {
+        "prefix": "icon:facebook-square[]",
+        "body": [ "icon:facebook-square[]" ,"$0" ],
+        "description": "adding icon:facebook-square "
+    },
+
+    "Insert icon:camera-retro": {
+        "prefix": "icon:camera-retro[]",
+        "body": [ "icon:camera-retro[]" ,"$0" ],
+        "description": "adding icon:camera-retro "
+    },
+
+    "Insert icon:key": {
+        "prefix": "icon:key[]",
+        "body": [ "icon:key[]" ,"$0" ],
+        "description": "adding icon:key "
+    },
+
+    "Insert icon:cogs": {
+        "prefix": "icon:cogs[]",
+        "body": [ "icon:cogs[]" ,"$0" ],
+        "description": "adding icon:cogs "
+    },
+
+    "Insert icon:comments": {
+        "prefix": "icon:comments[]",
+        "body": [ "icon:comments[]" ,"$0" ],
+        "description": "adding icon:comments "
+    },
+
+    "Insert icon:thumbs-o-up": {
+        "prefix": "icon:thumbs-o-up[]",
+        "body": [ "icon:thumbs-o-up[]" ,"$0" ],
+        "description": "adding icon:thumbs-o-up "
+    },
+
+    "Insert icon:thumbs-o-down": {
+        "prefix": "icon:thumbs-o-down[]",
+        "body": [ "icon:thumbs-o-down[]" ,"$0" ],
+        "description": "adding icon:thumbs-o-down "
+    },
+
+    "Insert icon:star-half": {
+        "prefix": "icon:star-half[]",
+        "body": [ "icon:star-half[]" ,"$0" ],
+        "description": "adding icon:star-half "
+    },
+
+    "Insert icon:heart-o": {
+        "prefix": "icon:heart-o[]",
+        "body": [ "icon:heart-o[]" ,"$0" ],
+        "description": "adding icon:heart-o "
+    },
+
+    "Insert icon:sign-out": {
+        "prefix": "icon:sign-out[]",
+        "body": [ "icon:sign-out[]" ,"$0" ],
+        "description": "adding icon:sign-out "
+    },
+
+    "Insert icon:linkedin-square": {
+        "prefix": "icon:linkedin-square[]",
+        "body": [ "icon:linkedin-square[]" ,"$0" ],
+        "description": "adding icon:linkedin-square "
+    },
+
+    "Insert icon:thumb-tack": {
+        "prefix": "icon:thumb-tack[]",
+        "body": [ "icon:thumb-tack[]" ,"$0" ],
+        "description": "adding icon:thumb-tack "
+    },
+
+    "Insert icon:external-link": {
+        "prefix": "icon:external-link[]",
+        "body": [ "icon:external-link[]" ,"$0" ],
+        "description": "adding icon:external-link "
+    },
+
+    "Insert icon:sign-in": {
+        "prefix": "icon:sign-in[]",
+        "body": [ "icon:sign-in[]" ,"$0" ],
+        "description": "adding icon:sign-in "
+    },
+
+    "Insert icon:trophy": {
+        "prefix": "icon:trophy[]",
+        "body": [ "icon:trophy[]" ,"$0" ],
+        "description": "adding icon:trophy "
+    },
+
+    "Insert icon:github-square": {
+        "prefix": "icon:github-square[]",
+        "body": [ "icon:github-square[]" ,"$0" ],
+        "description": "adding icon:github-square "
+    },
+
+    "Insert icon:upload": {
+        "prefix": "icon:upload[]",
+        "body": [ "icon:upload[]" ,"$0" ],
+        "description": "adding icon:upload "
+    },
+
+    "Insert icon:lemon-o": {
+        "prefix": "icon:lemon-o[]",
+        "body": [ "icon:lemon-o[]" ,"$0" ],
+        "description": "adding icon:lemon-o "
+    },
+
+    "Insert icon:phone": {
+        "prefix": "icon:phone[]",
+        "body": [ "icon:phone[]" ,"$0" ],
+        "description": "adding icon:phone "
+    },
+
+    "Insert icon:square-o": {
+        "prefix": "icon:square-o[]",
+        "body": [ "icon:square-o[]" ,"$0" ],
+        "description": "adding icon:square-o "
+    },
+
+    "Insert icon:bookmark-o": {
+        "prefix": "icon:bookmark-o[]",
+        "body": [ "icon:bookmark-o[]" ,"$0" ],
+        "description": "adding icon:bookmark-o "
+    },
+
+    "Insert icon:phone-square": {
+        "prefix": "icon:phone-square[]",
+        "body": [ "icon:phone-square[]" ,"$0" ],
+        "description": "adding icon:phone-square "
+    },
+
+    "Insert icon:twitter": {
+        "prefix": "icon:twitter[]",
+        "body": [ "icon:twitter[]" ,"$0" ],
+        "description": "adding icon:twitter "
+    },
+
+    "Insert icon:facebook": {
+        "prefix": "icon:facebook[]",
+        "body": [ "icon:facebook[]" ,"$0" ],
+        "description": "adding icon:facebook "
+    },
+
+    "Insert icon:github": {
+        "prefix": "icon:github[]",
+        "body": [ "icon:github[]" ,"$0" ],
+        "description": "adding icon:github "
+    },
+
+    "Insert icon:unlock": {
+        "prefix": "icon:unlock[]",
+        "body": [ "icon:unlock[]" ,"$0" ],
+        "description": "adding icon:unlock "
+    },
+
+    "Insert icon:credit-card": {
+        "prefix": "icon:credit-card[]",
+        "body": [ "icon:credit-card[]" ,"$0" ],
+        "description": "adding icon:credit-card "
+    },
+
+    "Insert icon:rss": {
+        "prefix": "icon:rss[]",
+        "body": [ "icon:rss[]" ,"$0" ],
+        "description": "adding icon:rss "
+    },
+
+    "Insert icon:hdd-o": {
+        "prefix": "icon:hdd-o[]",
+        "body": [ "icon:hdd-o[]" ,"$0" ],
+        "description": "adding icon:hdd-o "
+    },
+
+    "Insert icon:bullhorn": {
+        "prefix": "icon:bullhorn[]",
+        "body": [ "icon:bullhorn[]" ,"$0" ],
+        "description": "adding icon:bullhorn "
+    },
+
+    "Insert icon:bell": {
+        "prefix": "icon:bell[]",
+        "body": [ "icon:bell[]" ,"$0" ],
+        "description": "adding icon:bell "
+    },
+
+    "Insert icon:certificate": {
+        "prefix": "icon:certificate[]",
+        "body": [ "icon:certificate[]" ,"$0" ],
+        "description": "adding icon:certificate "
+    },
+
+    "Insert icon:hand-o-right": {
+        "prefix": "icon:hand-o-right[]",
+        "body": [ "icon:hand-o-right[]" ,"$0" ],
+        "description": "adding icon:hand-o-right "
+    },
+
+    "Insert icon:hand-o-left": {
+        "prefix": "icon:hand-o-left[]",
+        "body": [ "icon:hand-o-left[]" ,"$0" ],
+        "description": "adding icon:hand-o-left "
+    },
+
+    "Insert icon:hand-o-up": {
+        "prefix": "icon:hand-o-up[]",
+        "body": [ "icon:hand-o-up[]" ,"$0" ],
+        "description": "adding icon:hand-o-up "
+    },
+
+    "Insert icon:hand-o-down": {
+        "prefix": "icon:hand-o-down[]",
+        "body": [ "icon:hand-o-down[]" ,"$0" ],
+        "description": "adding icon:hand-o-down "
+    },
+
+    "Insert icon:arrow-circle-left": {
+        "prefix": "icon:arrow-circle-left[]",
+        "body": [ "icon:arrow-circle-left[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-left "
+    },
+
+    "Insert icon:arrow-circle-right": {
+        "prefix": "icon:arrow-circle-right[]",
+        "body": [ "icon:arrow-circle-right[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-right "
+    },
+
+    "Insert icon:arrow-circle-up": {
+        "prefix": "icon:arrow-circle-up[]",
+        "body": [ "icon:arrow-circle-up[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-up "
+    },
+
+    "Insert icon:arrow-circle-down": {
+        "prefix": "icon:arrow-circle-down[]",
+        "body": [ "icon:arrow-circle-down[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-down "
+    },
+
+    "Insert icon:globe": {
+        "prefix": "icon:globe[]",
+        "body": [ "icon:globe[]" ,"$0" ],
+        "description": "adding icon:globe "
+    },
+
+    "Insert icon:wrench": {
+        "prefix": "icon:wrench[]",
+        "body": [ "icon:wrench[]" ,"$0" ],
+        "description": "adding icon:wrench "
+    },
+
+    "Insert icon:tasks": {
+        "prefix": "icon:tasks[]",
+        "body": [ "icon:tasks[]" ,"$0" ],
+        "description": "adding icon:tasks "
+    },
+
+    "Insert icon:filter": {
+        "prefix": "icon:filter[]",
+        "body": [ "icon:filter[]" ,"$0" ],
+        "description": "adding icon:filter "
+    },
+
+    "Insert icon:briefcase": {
+        "prefix": "icon:briefcase[]",
+        "body": [ "icon:briefcase[]" ,"$0" ],
+        "description": "adding icon:briefcase "
+    },
+
+    "Insert icon:arrows-alt": {
+        "prefix": "icon:arrows-alt[]",
+        "body": [ "icon:arrows-alt[]" ,"$0" ],
+        "description": "adding icon:arrows-alt "
+    },
+
+    "Insert icon:users": {
+        "prefix": "icon:users[]",
+        "body": [ "icon:users[]" ,"$0" ],
+        "description": "adding icon:users "
+    },
+
+    "Insert icon:link": {
+        "prefix": "icon:link[]",
+        "body": [ "icon:link[]" ,"$0" ],
+        "description": "adding icon:link "
+    },
+
+    "Insert icon:cloud": {
+        "prefix": "icon:cloud[]",
+        "body": [ "icon:cloud[]" ,"$0" ],
+        "description": "adding icon:cloud "
+    },
+
+    "Insert icon:flask": {
+        "prefix": "icon:flask[]",
+        "body": [ "icon:flask[]" ,"$0" ],
+        "description": "adding icon:flask "
+    },
+
+    "Insert icon:scissors": {
+        "prefix": "icon:scissors[]",
+        "body": [ "icon:scissors[]" ,"$0" ],
+        "description": "adding icon:scissors "
+    },
+
+    "Insert icon:files-o": {
+        "prefix": "icon:files-o[]",
+        "body": [ "icon:files-o[]" ,"$0" ],
+        "description": "adding icon:files-o "
+    },
+
+    "Insert icon:paperclip": {
+        "prefix": "icon:paperclip[]",
+        "body": [ "icon:paperclip[]" ,"$0" ],
+        "description": "adding icon:paperclip "
+    },
+
+    "Insert icon:floppy-o": {
+        "prefix": "icon:floppy-o[]",
+        "body": [ "icon:floppy-o[]" ,"$0" ],
+        "description": "adding icon:floppy-o "
+    },
+
+    "Insert icon:square": {
+        "prefix": "icon:square[]",
+        "body": [ "icon:square[]" ,"$0" ],
+        "description": "adding icon:square "
+    },
+
+    "Insert icon:bars": {
+        "prefix": "icon:bars[]",
+        "body": [ "icon:bars[]" ,"$0" ],
+        "description": "adding icon:bars "
+    },
+
+    "Insert icon:list-ul": {
+        "prefix": "icon:list-ul[]",
+        "body": [ "icon:list-ul[]" ,"$0" ],
+        "description": "adding icon:list-ul "
+    },
+
+    "Insert icon:list-ol": {
+        "prefix": "icon:list-ol[]",
+        "body": [ "icon:list-ol[]" ,"$0" ],
+        "description": "adding icon:list-ol "
+    },
+
+    "Insert icon:strikethrough": {
+        "prefix": "icon:strikethrough[]",
+        "body": [ "icon:strikethrough[]" ,"$0" ],
+        "description": "adding icon:strikethrough "
+    },
+
+    "Insert icon:underline": {
+        "prefix": "icon:underline[]",
+        "body": [ "icon:underline[]" ,"$0" ],
+        "description": "adding icon:underline "
+    },
+
+    "Insert icon:table": {
+        "prefix": "icon:table[]",
+        "body": [ "icon:table[]" ,"$0" ],
+        "description": "adding icon:table "
+    },
+
+    "Insert icon:magic": {
+        "prefix": "icon:magic[]",
+        "body": [ "icon:magic[]" ,"$0" ],
+        "description": "adding icon:magic "
+    },
+
+    "Insert icon:truck": {
+        "prefix": "icon:truck[]",
+        "body": [ "icon:truck[]" ,"$0" ],
+        "description": "adding icon:truck "
+    },
+
+    "Insert icon:pinterest": {
+        "prefix": "icon:pinterest[]",
+        "body": [ "icon:pinterest[]" ,"$0" ],
+        "description": "adding icon:pinterest "
+    },
+
+    "Insert icon:pinterest-square": {
+        "prefix": "icon:pinterest-square[]",
+        "body": [ "icon:pinterest-square[]" ,"$0" ],
+        "description": "adding icon:pinterest-square "
+    },
+
+    "Insert icon:google-plus-square": {
+        "prefix": "icon:google-plus-square[]",
+        "body": [ "icon:google-plus-square[]" ,"$0" ],
+        "description": "adding icon:google-plus-square "
+    },
+
+    "Insert icon:google-plus": {
+        "prefix": "icon:google-plus[]",
+        "body": [ "icon:google-plus[]" ,"$0" ],
+        "description": "adding icon:google-plus "
+    },
+
+    "Insert icon:money": {
+        "prefix": "icon:money[]",
+        "body": [ "icon:money[]" ,"$0" ],
+        "description": "adding icon:money "
+    },
+
+    "Insert icon:caret-down": {
+        "prefix": "icon:caret-down[]",
+        "body": [ "icon:caret-down[]" ,"$0" ],
+        "description": "adding icon:caret-down "
+    },
+
+    "Insert icon:caret-up": {
+        "prefix": "icon:caret-up[]",
+        "body": [ "icon:caret-up[]" ,"$0" ],
+        "description": "adding icon:caret-up "
+    },
+
+    "Insert icon:caret-left": {
+        "prefix": "icon:caret-left[]",
+        "body": [ "icon:caret-left[]" ,"$0" ],
+        "description": "adding icon:caret-left "
+    },
+
+    "Insert icon:caret-right": {
+        "prefix": "icon:caret-right[]",
+        "body": [ "icon:caret-right[]" ,"$0" ],
+        "description": "adding icon:caret-right "
+    },
+
+    "Insert icon:columns": {
+        "prefix": "icon:columns[]",
+        "body": [ "icon:columns[]" ,"$0" ],
+        "description": "adding icon:columns "
+    },
+
+    "Insert icon:sort": {
+        "prefix": "icon:sort[]",
+        "body": [ "icon:sort[]" ,"$0" ],
+        "description": "adding icon:sort "
+    },
+
+    "Insert icon:sort-desc": {
+        "prefix": "icon:sort-desc[]",
+        "body": [ "icon:sort-desc[]" ,"$0" ],
+        "description": "adding icon:sort-desc "
+    },
+
+    "Insert icon:sort-asc": {
+        "prefix": "icon:sort-asc[]",
+        "body": [ "icon:sort-asc[]" ,"$0" ],
+        "description": "adding icon:sort-asc "
+    },
+
+    "Insert icon:envelope": {
+        "prefix": "icon:envelope[]",
+        "body": [ "icon:envelope[]" ,"$0" ],
+        "description": "adding icon:envelope "
+    },
+
+    "Insert icon:linkedin": {
+        "prefix": "icon:linkedin[]",
+        "body": [ "icon:linkedin[]" ,"$0" ],
+        "description": "adding icon:linkedin "
+    },
+
+    "Insert icon:undo": {
+        "prefix": "icon:undo[]",
+        "body": [ "icon:undo[]" ,"$0" ],
+        "description": "adding icon:undo "
+    },
+
+    "Insert icon:gavel": {
+        "prefix": "icon:gavel[]",
+        "body": [ "icon:gavel[]" ,"$0" ],
+        "description": "adding icon:gavel "
+    },
+
+    "Insert icon:tachometer": {
+        "prefix": "icon:tachometer[]",
+        "body": [ "icon:tachometer[]" ,"$0" ],
+        "description": "adding icon:tachometer "
+    },
+
+    "Insert icon:comment-o": {
+        "prefix": "icon:comment-o[]",
+        "body": [ "icon:comment-o[]" ,"$0" ],
+        "description": "adding icon:comment-o "
+    },
+
+    "Insert icon:comments-o": {
+        "prefix": "icon:comments-o[]",
+        "body": [ "icon:comments-o[]" ,"$0" ],
+        "description": "adding icon:comments-o "
+    },
+
+    "Insert icon:bolt": {
+        "prefix": "icon:bolt[]",
+        "body": [ "icon:bolt[]" ,"$0" ],
+        "description": "adding icon:bolt "
+    },
+
+    "Insert icon:sitemap": {
+        "prefix": "icon:sitemap[]",
+        "body": [ "icon:sitemap[]" ,"$0" ],
+        "description": "adding icon:sitemap "
+    },
+
+    "Insert icon:umbrella": {
+        "prefix": "icon:umbrella[]",
+        "body": [ "icon:umbrella[]" ,"$0" ],
+        "description": "adding icon:umbrella "
+    },
+
+    "Insert icon:clipboard": {
+        "prefix": "icon:clipboard[]",
+        "body": [ "icon:clipboard[]" ,"$0" ],
+        "description": "adding icon:clipboard "
+    },
+
+    "Insert icon:lightbulb-o": {
+        "prefix": "icon:lightbulb-o[]",
+        "body": [ "icon:lightbulb-o[]" ,"$0" ],
+        "description": "adding icon:lightbulb-o "
+    },
+
+    "Insert icon:exchange": {
+        "prefix": "icon:exchange[]",
+        "body": [ "icon:exchange[]" ,"$0" ],
+        "description": "adding icon:exchange "
+    },
+
+    "Insert icon:cloud-download": {
+        "prefix": "icon:cloud-download[]",
+        "body": [ "icon:cloud-download[]" ,"$0" ],
+        "description": "adding icon:cloud-download "
+    },
+
+    "Insert icon:cloud-upload": {
+        "prefix": "icon:cloud-upload[]",
+        "body": [ "icon:cloud-upload[]" ,"$0" ],
+        "description": "adding icon:cloud-upload "
+    },
+
+    "Insert icon:user-md": {
+        "prefix": "icon:user-md[]",
+        "body": [ "icon:user-md[]" ,"$0" ],
+        "description": "adding icon:user-md "
+    },
+
+    "Insert icon:stethoscope": {
+        "prefix": "icon:stethoscope[]",
+        "body": [ "icon:stethoscope[]" ,"$0" ],
+        "description": "adding icon:stethoscope "
+    },
+
+    "Insert icon:suitcase": {
+        "prefix": "icon:suitcase[]",
+        "body": [ "icon:suitcase[]" ,"$0" ],
+        "description": "adding icon:suitcase "
+    },
+
+    "Insert icon:bell-o": {
+        "prefix": "icon:bell-o[]",
+        "body": [ "icon:bell-o[]" ,"$0" ],
+        "description": "adding icon:bell-o "
+    },
+
+    "Insert icon:coffee": {
+        "prefix": "icon:coffee[]",
+        "body": [ "icon:coffee[]" ,"$0" ],
+        "description": "adding icon:coffee "
+    },
+
+    "Insert icon:cutlery": {
+        "prefix": "icon:cutlery[]",
+        "body": [ "icon:cutlery[]" ,"$0" ],
+        "description": "adding icon:cutlery "
+    },
+
+    "Insert icon:file-text-o": {
+        "prefix": "icon:file-text-o[]",
+        "body": [ "icon:file-text-o[]" ,"$0" ],
+        "description": "adding icon:file-text-o "
+    },
+
+    "Insert icon:building-o": {
+        "prefix": "icon:building-o[]",
+        "body": [ "icon:building-o[]" ,"$0" ],
+        "description": "adding icon:building-o "
+    },
+
+    "Insert icon:hospital-o": {
+        "prefix": "icon:hospital-o[]",
+        "body": [ "icon:hospital-o[]" ,"$0" ],
+        "description": "adding icon:hospital-o "
+    },
+
+    "Insert icon:ambulance": {
+        "prefix": "icon:ambulance[]",
+        "body": [ "icon:ambulance[]" ,"$0" ],
+        "description": "adding icon:ambulance "
+    },
+
+    "Insert icon:medkit": {
+        "prefix": "icon:medkit[]",
+        "body": [ "icon:medkit[]" ,"$0" ],
+        "description": "adding icon:medkit "
+    },
+
+    "Insert icon:fighter-jet": {
+        "prefix": "icon:fighter-jet[]",
+        "body": [ "icon:fighter-jet[]" ,"$0" ],
+        "description": "adding icon:fighter-jet "
+    },
+
+    "Insert icon:beer": {
+        "prefix": "icon:beer[]",
+        "body": [ "icon:beer[]" ,"$0" ],
+        "description": "adding icon:beer "
+    },
+
+    "Insert icon:h-square": {
+        "prefix": "icon:h-square[]",
+        "body": [ "icon:h-square[]" ,"$0" ],
+        "description": "adding icon:h-square "
+    },
+
+    "Insert icon:plus-square": {
+        "prefix": "icon:plus-square[]",
+        "body": [ "icon:plus-square[]" ,"$0" ],
+        "description": "adding icon:plus-square "
+    },
+
+    "Insert icon:angle-double-left": {
+        "prefix": "icon:angle-double-left[]",
+        "body": [ "icon:angle-double-left[]" ,"$0" ],
+        "description": "adding icon:angle-double-left "
+    },
+
+    "Insert icon:angle-double-right": {
+        "prefix": "icon:angle-double-right[]",
+        "body": [ "icon:angle-double-right[]" ,"$0" ],
+        "description": "adding icon:angle-double-right "
+    },
+
+    "Insert icon:angle-double-up": {
+        "prefix": "icon:angle-double-up[]",
+        "body": [ "icon:angle-double-up[]" ,"$0" ],
+        "description": "adding icon:angle-double-up "
+    },
+
+    "Insert icon:angle-double-down": {
+        "prefix": "icon:angle-double-down[]",
+        "body": [ "icon:angle-double-down[]" ,"$0" ],
+        "description": "adding icon:angle-double-down "
+    },
+
+    "Insert icon:angle-left": {
+        "prefix": "icon:angle-left[]",
+        "body": [ "icon:angle-left[]" ,"$0" ],
+        "description": "adding icon:angle-left "
+    },
+
+    "Insert icon:angle-right": {
+        "prefix": "icon:angle-right[]",
+        "body": [ "icon:angle-right[]" ,"$0" ],
+        "description": "adding icon:angle-right "
+    },
+
+    "Insert icon:angle-up": {
+        "prefix": "icon:angle-up[]",
+        "body": [ "icon:angle-up[]" ,"$0" ],
+        "description": "adding icon:angle-up "
+    },
+
+    "Insert icon:angle-down": {
+        "prefix": "icon:angle-down[]",
+        "body": [ "icon:angle-down[]" ,"$0" ],
+        "description": "adding icon:angle-down "
+    },
+
+    "Insert icon:desktop": {
+        "prefix": "icon:desktop[]",
+        "body": [ "icon:desktop[]" ,"$0" ],
+        "description": "adding icon:desktop "
+    },
+
+    "Insert icon:laptop": {
+        "prefix": "icon:laptop[]",
+        "body": [ "icon:laptop[]" ,"$0" ],
+        "description": "adding icon:laptop "
+    },
+
+    "Insert icon:tablet": {
+        "prefix": "icon:tablet[]",
+        "body": [ "icon:tablet[]" ,"$0" ],
+        "description": "adding icon:tablet "
+    },
+
+    "Insert icon:mobile": {
+        "prefix": "icon:mobile[]",
+        "body": [ "icon:mobile[]" ,"$0" ],
+        "description": "adding icon:mobile "
+    },
+
+    "Insert icon:circle-o": {
+        "prefix": "icon:circle-o[]",
+        "body": [ "icon:circle-o[]" ,"$0" ],
+        "description": "adding icon:circle-o "
+    },
+
+    "Insert icon:quote-left": {
+        "prefix": "icon:quote-left[]",
+        "body": [ "icon:quote-left[]" ,"$0" ],
+        "description": "adding icon:quote-left "
+    },
+
+    "Insert icon:quote-right": {
+        "prefix": "icon:quote-right[]",
+        "body": [ "icon:quote-right[]" ,"$0" ],
+        "description": "adding icon:quote-right "
+    },
+
+    "Insert icon:spinner": {
+        "prefix": "icon:spinner[]",
+        "body": [ "icon:spinner[]" ,"$0" ],
+        "description": "adding icon:spinner "
+    },
+
+    "Insert icon:circle": {
+        "prefix": "icon:circle[]",
+        "body": [ "icon:circle[]" ,"$0" ],
+        "description": "adding icon:circle "
+    },
+
+    "Insert icon:reply": {
+        "prefix": "icon:reply[]",
+        "body": [ "icon:reply[]" ,"$0" ],
+        "description": "adding icon:reply "
+    },
+
+    "Insert icon:github-alt": {
+        "prefix": "icon:github-alt[]",
+        "body": [ "icon:github-alt[]" ,"$0" ],
+        "description": "adding icon:github-alt "
+    },
+
+    "Insert icon:folder-o": {
+        "prefix": "icon:folder-o[]",
+        "body": [ "icon:folder-o[]" ,"$0" ],
+        "description": "adding icon:folder-o "
+    },
+
+    "Insert icon:folder-open-o": {
+        "prefix": "icon:folder-open-o[]",
+        "body": [ "icon:folder-open-o[]" ,"$0" ],
+        "description": "adding icon:folder-open-o "
+    },
+
+    "Insert icon:smile-o": {
+        "prefix": "icon:smile-o[]",
+        "body": [ "icon:smile-o[]" ,"$0" ],
+        "description": "adding icon:smile-o "
+    },
+
+    "Insert icon:frown-o": {
+        "prefix": "icon:frown-o[]",
+        "body": [ "icon:frown-o[]" ,"$0" ],
+        "description": "adding icon:frown-o "
+    },
+
+    "Insert icon:meh-o": {
+        "prefix": "icon:meh-o[]",
+        "body": [ "icon:meh-o[]" ,"$0" ],
+        "description": "adding icon:meh-o "
+    },
+
+    "Insert icon:gamepad": {
+        "prefix": "icon:gamepad[]",
+        "body": [ "icon:gamepad[]" ,"$0" ],
+        "description": "adding icon:gamepad "
+    },
+
+    "Insert icon:keyboard-o": {
+        "prefix": "icon:keyboard-o[]",
+        "body": [ "icon:keyboard-o[]" ,"$0" ],
+        "description": "adding icon:keyboard-o "
+    },
+
+    "Insert icon:flag-o": {
+        "prefix": "icon:flag-o[]",
+        "body": [ "icon:flag-o[]" ,"$0" ],
+        "description": "adding icon:flag-o "
+    },
+
+    "Insert icon:flag-checkered": {
+        "prefix": "icon:flag-checkered[]",
+        "body": [ "icon:flag-checkered[]" ,"$0" ],
+        "description": "adding icon:flag-checkered "
+    },
+
+    "Insert icon:terminal": {
+        "prefix": "icon:terminal[]",
+        "body": [ "icon:terminal[]" ,"$0" ],
+        "description": "adding icon:terminal "
+    },
+
+    "Insert icon:code": {
+        "prefix": "icon:code[]",
+        "body": [ "icon:code[]" ,"$0" ],
+        "description": "adding icon:code "
+    },
+
+    "Insert icon:reply-all": {
+        "prefix": "icon:reply-all[]",
+        "body": [ "icon:reply-all[]" ,"$0" ],
+        "description": "adding icon:reply-all "
+    },
+
+    "Insert icon:star-half-o": {
+        "prefix": "icon:star-half-o[]",
+        "body": [ "icon:star-half-o[]" ,"$0" ],
+        "description": "adding icon:star-half-o "
+    },
+
+    "Insert icon:location-arrow": {
+        "prefix": "icon:location-arrow[]",
+        "body": [ "icon:location-arrow[]" ,"$0" ],
+        "description": "adding icon:location-arrow "
+    },
+
+    "Insert icon:crop": {
+        "prefix": "icon:crop[]",
+        "body": [ "icon:crop[]" ,"$0" ],
+        "description": "adding icon:crop "
+    },
+
+    "Insert icon:code-fork": {
+        "prefix": "icon:code-fork[]",
+        "body": [ "icon:code-fork[]" ,"$0" ],
+        "description": "adding icon:code-fork "
+    },
+
+    "Insert icon:chain-broken": {
+        "prefix": "icon:chain-broken[]",
+        "body": [ "icon:chain-broken[]" ,"$0" ],
+        "description": "adding icon:chain-broken "
+    },
+
+    "Insert icon:question": {
+        "prefix": "icon:question[]",
+        "body": [ "icon:question[]" ,"$0" ],
+        "description": "adding icon:question "
+    },
+
+    "Insert icon:info": {
+        "prefix": "icon:info[]",
+        "body": [ "icon:info[]" ,"$0" ],
+        "description": "adding icon:info "
+    },
+
+    "Insert icon:exclamation": {
+        "prefix": "icon:exclamation[]",
+        "body": [ "icon:exclamation[]" ,"$0" ],
+        "description": "adding icon:exclamation "
+    },
+
+    "Insert icon:superscript": {
+        "prefix": "icon:superscript[]",
+        "body": [ "icon:superscript[]" ,"$0" ],
+        "description": "adding icon:superscript "
+    },
+
+    "Insert icon:subscript": {
+        "prefix": "icon:subscript[]",
+        "body": [ "icon:subscript[]" ,"$0" ],
+        "description": "adding icon:subscript "
+    },
+
+    "Insert icon:eraser": {
+        "prefix": "icon:eraser[]",
+        "body": [ "icon:eraser[]" ,"$0" ],
+        "description": "adding icon:eraser "
+    },
+
+    "Insert icon:puzzle-piece": {
+        "prefix": "icon:puzzle-piece[]",
+        "body": [ "icon:puzzle-piece[]" ,"$0" ],
+        "description": "adding icon:puzzle-piece "
+    },
+
+    "Insert icon:microphone": {
+        "prefix": "icon:microphone[]",
+        "body": [ "icon:microphone[]" ,"$0" ],
+        "description": "adding icon:microphone "
+    },
+
+    "Insert icon:microphone-slash": {
+        "prefix": "icon:microphone-slash[]",
+        "body": [ "icon:microphone-slash[]" ,"$0" ],
+        "description": "adding icon:microphone-slash "
+    },
+
+    "Insert icon:shield": {
+        "prefix": "icon:shield[]",
+        "body": [ "icon:shield[]" ,"$0" ],
+        "description": "adding icon:shield "
+    },
+
+    "Insert icon:calendar-o": {
+        "prefix": "icon:calendar-o[]",
+        "body": [ "icon:calendar-o[]" ,"$0" ],
+        "description": "adding icon:calendar-o "
+    },
+
+    "Insert icon:fire-extinguisher": {
+        "prefix": "icon:fire-extinguisher[]",
+        "body": [ "icon:fire-extinguisher[]" ,"$0" ],
+        "description": "adding icon:fire-extinguisher "
+    },
+
+    "Insert icon:rocket": {
+        "prefix": "icon:rocket[]",
+        "body": [ "icon:rocket[]" ,"$0" ],
+        "description": "adding icon:rocket "
+    },
+
+    "Insert icon:maxcdn": {
+        "prefix": "icon:maxcdn[]",
+        "body": [ "icon:maxcdn[]" ,"$0" ],
+        "description": "adding icon:maxcdn "
+    },
+
+    "Insert icon:chevron-circle-left": {
+        "prefix": "icon:chevron-circle-left[]",
+        "body": [ "icon:chevron-circle-left[]" ,"$0" ],
+        "description": "adding icon:chevron-circle-left "
+    },
+
+    "Insert icon:chevron-circle-right": {
+        "prefix": "icon:chevron-circle-right[]",
+        "body": [ "icon:chevron-circle-right[]" ,"$0" ],
+        "description": "adding icon:chevron-circle-right "
+    },
+
+    "Insert icon:chevron-circle-up": {
+        "prefix": "icon:chevron-circle-up[]",
+        "body": [ "icon:chevron-circle-up[]" ,"$0" ],
+        "description": "adding icon:chevron-circle-up "
+    },
+
+    "Insert icon:chevron-circle-down": {
+        "prefix": "icon:chevron-circle-down[]",
+        "body": [ "icon:chevron-circle-down[]" ,"$0" ],
+        "description": "adding icon:chevron-circle-down "
+    },
+
+    "Insert icon:html5": {
+        "prefix": "icon:html5[]",
+        "body": [ "icon:html5[]" ,"$0" ],
+        "description": "adding icon:html5 "
+    },
+
+    "Insert icon:css3": {
+        "prefix": "icon:css3[]",
+        "body": [ "icon:css3[]" ,"$0" ],
+        "description": "adding icon:css3 "
+    },
+
+    "Insert icon:anchor": {
+        "prefix": "icon:anchor[]",
+        "body": [ "icon:anchor[]" ,"$0" ],
+        "description": "adding icon:anchor "
+    },
+
+    "Insert icon:unlock-alt": {
+        "prefix": "icon:unlock-alt[]",
+        "body": [ "icon:unlock-alt[]" ,"$0" ],
+        "description": "adding icon:unlock-alt "
+    },
+
+    "Insert icon:bullseye": {
+        "prefix": "icon:bullseye[]",
+        "body": [ "icon:bullseye[]" ,"$0" ],
+        "description": "adding icon:bullseye "
+    },
+
+    "Insert icon:ellipsis-h": {
+        "prefix": "icon:ellipsis-h[]",
+        "body": [ "icon:ellipsis-h[]" ,"$0" ],
+        "description": "adding icon:ellipsis-h "
+    },
+
+    "Insert icon:ellipsis-v": {
+        "prefix": "icon:ellipsis-v[]",
+        "body": [ "icon:ellipsis-v[]" ,"$0" ],
+        "description": "adding icon:ellipsis-v "
+    },
+
+    "Insert icon:rss-square": {
+        "prefix": "icon:rss-square[]",
+        "body": [ "icon:rss-square[]" ,"$0" ],
+        "description": "adding icon:rss-square "
+    },
+
+    "Insert icon:play-circle": {
+        "prefix": "icon:play-circle[]",
+        "body": [ "icon:play-circle[]" ,"$0" ],
+        "description": "adding icon:play-circle "
+    },
+
+    "Insert icon:ticket": {
+        "prefix": "icon:ticket[]",
+        "body": [ "icon:ticket[]" ,"$0" ],
+        "description": "adding icon:ticket "
+    },
+
+    "Insert icon:minus-square": {
+        "prefix": "icon:minus-square[]",
+        "body": [ "icon:minus-square[]" ,"$0" ],
+        "description": "adding icon:minus-square "
+    },
+
+    "Insert icon:minus-square-o": {
+        "prefix": "icon:minus-square-o[]",
+        "body": [ "icon:minus-square-o[]" ,"$0" ],
+        "description": "adding icon:minus-square-o "
+    },
+
+    "Insert icon:level-up": {
+        "prefix": "icon:level-up[]",
+        "body": [ "icon:level-up[]" ,"$0" ],
+        "description": "adding icon:level-up "
+    },
+
+    "Insert icon:level-down": {
+        "prefix": "icon:level-down[]",
+        "body": [ "icon:level-down[]" ,"$0" ],
+        "description": "adding icon:level-down "
+    },
+
+    "Insert icon:check-square": {
+        "prefix": "icon:check-square[]",
+        "body": [ "icon:check-square[]" ,"$0" ],
+        "description": "adding icon:check-square "
+    },
+
+    "Insert icon:pencil-square": {
+        "prefix": "icon:pencil-square[]",
+        "body": [ "icon:pencil-square[]" ,"$0" ],
+        "description": "adding icon:pencil-square "
+    },
+
+    "Insert icon:external-link-square": {
+        "prefix": "icon:external-link-square[]",
+        "body": [ "icon:external-link-square[]" ,"$0" ],
+        "description": "adding icon:external-link-square "
+    },
+
+    "Insert icon:share-square": {
+        "prefix": "icon:share-square[]",
+        "body": [ "icon:share-square[]" ,"$0" ],
+        "description": "adding icon:share-square "
+    },
+
+    "Insert icon:compass": {
+        "prefix": "icon:compass[]",
+        "body": [ "icon:compass[]" ,"$0" ],
+        "description": "adding icon:compass "
+    },
+
+    "Insert icon:caret-square-o-down": {
+        "prefix": "icon:caret-square-o-down[]",
+        "body": [ "icon:caret-square-o-down[]" ,"$0" ],
+        "description": "adding icon:caret-square-o-down "
+    },
+
+    "Insert icon:caret-square-o-up": {
+        "prefix": "icon:caret-square-o-up[]",
+        "body": [ "icon:caret-square-o-up[]" ,"$0" ],
+        "description": "adding icon:caret-square-o-up "
+    },
+
+    "Insert icon:caret-square-o-right": {
+        "prefix": "icon:caret-square-o-right[]",
+        "body": [ "icon:caret-square-o-right[]" ,"$0" ],
+        "description": "adding icon:caret-square-o-right "
+    },
+
+    "Insert icon:eur": {
+        "prefix": "icon:eur[]",
+        "body": [ "icon:eur[]" ,"$0" ],
+        "description": "adding icon:eur "
+    },
+
+    "Insert icon:gbp": {
+        "prefix": "icon:gbp[]",
+        "body": [ "icon:gbp[]" ,"$0" ],
+        "description": "adding icon:gbp "
+    },
+
+    "Insert icon:usd": {
+        "prefix": "icon:usd[]",
+        "body": [ "icon:usd[]" ,"$0" ],
+        "description": "adding icon:usd "
+    },
+
+    "Insert icon:inr": {
+        "prefix": "icon:inr[]",
+        "body": [ "icon:inr[]" ,"$0" ],
+        "description": "adding icon:inr "
+    },
+
+    "Insert icon:jpy": {
+        "prefix": "icon:jpy[]",
+        "body": [ "icon:jpy[]" ,"$0" ],
+        "description": "adding icon:jpy "
+    },
+
+    "Insert icon:rub": {
+        "prefix": "icon:rub[]",
+        "body": [ "icon:rub[]" ,"$0" ],
+        "description": "adding icon:rub "
+    },
+
+    "Insert icon:krw": {
+        "prefix": "icon:krw[]",
+        "body": [ "icon:krw[]" ,"$0" ],
+        "description": "adding icon:krw "
+    },
+
+    "Insert icon:btc": {
+        "prefix": "icon:btc[]",
+        "body": [ "icon:btc[]" ,"$0" ],
+        "description": "adding icon:btc "
+    },
+
+    "Insert icon:file": {
+        "prefix": "icon:file[]",
+        "body": [ "icon:file[]" ,"$0" ],
+        "description": "adding icon:file "
+    },
+
+    "Insert icon:file-text": {
+        "prefix": "icon:file-text[]",
+        "body": [ "icon:file-text[]" ,"$0" ],
+        "description": "adding icon:file-text "
+    },
+
+    "Insert icon:sort-alpha-asc": {
+        "prefix": "icon:sort-alpha-asc[]",
+        "body": [ "icon:sort-alpha-asc[]" ,"$0" ],
+        "description": "adding icon:sort-alpha-asc "
+    },
+
+    "Insert icon:sort-alpha-desc": {
+        "prefix": "icon:sort-alpha-desc[]",
+        "body": [ "icon:sort-alpha-desc[]" ,"$0" ],
+        "description": "adding icon:sort-alpha-desc "
+    },
+
+    "Insert icon:sort-amount-asc": {
+        "prefix": "icon:sort-amount-asc[]",
+        "body": [ "icon:sort-amount-asc[]" ,"$0" ],
+        "description": "adding icon:sort-amount-asc "
+    },
+
+    "Insert icon:sort-amount-desc": {
+        "prefix": "icon:sort-amount-desc[]",
+        "body": [ "icon:sort-amount-desc[]" ,"$0" ],
+        "description": "adding icon:sort-amount-desc "
+    },
+
+    "Insert icon:sort-numeric-asc": {
+        "prefix": "icon:sort-numeric-asc[]",
+        "body": [ "icon:sort-numeric-asc[]" ,"$0" ],
+        "description": "adding icon:sort-numeric-asc "
+    },
+
+    "Insert icon:sort-numeric-desc": {
+        "prefix": "icon:sort-numeric-desc[]",
+        "body": [ "icon:sort-numeric-desc[]" ,"$0" ],
+        "description": "adding icon:sort-numeric-desc "
+    },
+
+    "Insert icon:thumbs-up": {
+        "prefix": "icon:thumbs-up[]",
+        "body": [ "icon:thumbs-up[]" ,"$0" ],
+        "description": "adding icon:thumbs-up "
+    },
+
+    "Insert icon:thumbs-down": {
+        "prefix": "icon:thumbs-down[]",
+        "body": [ "icon:thumbs-down[]" ,"$0" ],
+        "description": "adding icon:thumbs-down "
+    },
+
+    "Insert icon:youtube-square": {
+        "prefix": "icon:youtube-square[]",
+        "body": [ "icon:youtube-square[]" ,"$0" ],
+        "description": "adding icon:youtube-square "
+    },
+
+    "Insert icon:youtube": {
+        "prefix": "icon:youtube[]",
+        "body": [ "icon:youtube[]" ,"$0" ],
+        "description": "adding icon:youtube "
+    },
+
+    "Insert icon:xing": {
+        "prefix": "icon:xing[]",
+        "body": [ "icon:xing[]" ,"$0" ],
+        "description": "adding icon:xing "
+    },
+
+    "Insert icon:xing-square": {
+        "prefix": "icon:xing-square[]",
+        "body": [ "icon:xing-square[]" ,"$0" ],
+        "description": "adding icon:xing-square "
+    },
+
+    "Insert icon:youtube-play": {
+        "prefix": "icon:youtube-play[]",
+        "body": [ "icon:youtube-play[]" ,"$0" ],
+        "description": "adding icon:youtube-play "
+    },
+
+    "Insert icon:dropbox": {
+        "prefix": "icon:dropbox[]",
+        "body": [ "icon:dropbox[]" ,"$0" ],
+        "description": "adding icon:dropbox "
+    },
+
+    "Insert icon:stack-overflow": {
+        "prefix": "icon:stack-overflow[]",
+        "body": [ "icon:stack-overflow[]" ,"$0" ],
+        "description": "adding icon:stack-overflow "
+    },
+
+    "Insert icon:instagram": {
+        "prefix": "icon:instagram[]",
+        "body": [ "icon:instagram[]" ,"$0" ],
+        "description": "adding icon:instagram "
+    },
+
+    "Insert icon:flickr": {
+        "prefix": "icon:flickr[]",
+        "body": [ "icon:flickr[]" ,"$0" ],
+        "description": "adding icon:flickr "
+    },
+
+    "Insert icon:adn": {
+        "prefix": "icon:adn[]",
+        "body": [ "icon:adn[]" ,"$0" ],
+        "description": "adding icon:adn "
+    },
+
+    "Insert icon:bitbucket": {
+        "prefix": "icon:bitbucket[]",
+        "body": [ "icon:bitbucket[]" ,"$0" ],
+        "description": "adding icon:bitbucket "
+    },
+
+    "Insert icon:bitbucket-square": {
+        "prefix": "icon:bitbucket-square[]",
+        "body": [ "icon:bitbucket-square[]" ,"$0" ],
+        "description": "adding icon:bitbucket-square "
+    },
+
+    "Insert icon:tumblr": {
+        "prefix": "icon:tumblr[]",
+        "body": [ "icon:tumblr[]" ,"$0" ],
+        "description": "adding icon:tumblr "
+    },
+
+    "Insert icon:tumblr-square": {
+        "prefix": "icon:tumblr-square[]",
+        "body": [ "icon:tumblr-square[]" ,"$0" ],
+        "description": "adding icon:tumblr-square "
+    },
+
+    "Insert icon:long-arrow-down": {
+        "prefix": "icon:long-arrow-down[]",
+        "body": [ "icon:long-arrow-down[]" ,"$0" ],
+        "description": "adding icon:long-arrow-down "
+    },
+
+    "Insert icon:long-arrow-up": {
+        "prefix": "icon:long-arrow-up[]",
+        "body": [ "icon:long-arrow-up[]" ,"$0" ],
+        "description": "adding icon:long-arrow-up "
+    },
+
+    "Insert icon:long-arrow-left": {
+        "prefix": "icon:long-arrow-left[]",
+        "body": [ "icon:long-arrow-left[]" ,"$0" ],
+        "description": "adding icon:long-arrow-left "
+    },
+
+    "Insert icon:long-arrow-right": {
+        "prefix": "icon:long-arrow-right[]",
+        "body": [ "icon:long-arrow-right[]" ,"$0" ],
+        "description": "adding icon:long-arrow-right "
+    },
+
+    "Insert icon:apple": {
+        "prefix": "icon:apple[]",
+        "body": [ "icon:apple[]" ,"$0" ],
+        "description": "adding icon:apple "
+    },
+
+    "Insert icon:windows": {
+        "prefix": "icon:windows[]",
+        "body": [ "icon:windows[]" ,"$0" ],
+        "description": "adding icon:windows "
+    },
+
+    "Insert icon:android": {
+        "prefix": "icon:android[]",
+        "body": [ "icon:android[]" ,"$0" ],
+        "description": "adding icon:android "
+    },
+
+    "Insert icon:linux": {
+        "prefix": "icon:linux[]",
+        "body": [ "icon:linux[]" ,"$0" ],
+        "description": "adding icon:linux "
+    },
+
+    "Insert icon:dribbble": {
+        "prefix": "icon:dribbble[]",
+        "body": [ "icon:dribbble[]" ,"$0" ],
+        "description": "adding icon:dribbble "
+    },
+
+    "Insert icon:skype": {
+        "prefix": "icon:skype[]",
+        "body": [ "icon:skype[]" ,"$0" ],
+        "description": "adding icon:skype "
+    },
+
+    "Insert icon:foursquare": {
+        "prefix": "icon:foursquare[]",
+        "body": [ "icon:foursquare[]" ,"$0" ],
+        "description": "adding icon:foursquare "
+    },
+
+    "Insert icon:trello": {
+        "prefix": "icon:trello[]",
+        "body": [ "icon:trello[]" ,"$0" ],
+        "description": "adding icon:trello "
+    },
+
+    "Insert icon:female": {
+        "prefix": "icon:female[]",
+        "body": [ "icon:female[]" ,"$0" ],
+        "description": "adding icon:female "
+    },
+
+    "Insert icon:male": {
+        "prefix": "icon:male[]",
+        "body": [ "icon:male[]" ,"$0" ],
+        "description": "adding icon:male "
+    },
+
+    "Insert icon:gratipay": {
+        "prefix": "icon:gratipay[]",
+        "body": [ "icon:gratipay[]" ,"$0" ],
+        "description": "adding icon:gratipay "
+    },
+
+    "Insert icon:sun-o": {
+        "prefix": "icon:sun-o[]",
+        "body": [ "icon:sun-o[]" ,"$0" ],
+        "description": "adding icon:sun-o "
+    },
+
+    "Insert icon:moon-o": {
+        "prefix": "icon:moon-o[]",
+        "body": [ "icon:moon-o[]" ,"$0" ],
+        "description": "adding icon:moon-o "
+    },
+
+    "Insert icon:archive": {
+        "prefix": "icon:archive[]",
+        "body": [ "icon:archive[]" ,"$0" ],
+        "description": "adding icon:archive "
+    },
+
+    "Insert icon:bug": {
+        "prefix": "icon:bug[]",
+        "body": [ "icon:bug[]" ,"$0" ],
+        "description": "adding icon:bug "
+    },
+
+    "Insert icon:vk": {
+        "prefix": "icon:vk[]",
+        "body": [ "icon:vk[]" ,"$0" ],
+        "description": "adding icon:vk "
+    },
+
+    "Insert icon:weibo": {
+        "prefix": "icon:weibo[]",
+        "body": [ "icon:weibo[]" ,"$0" ],
+        "description": "adding icon:weibo "
+    },
+
+    "Insert icon:renren": {
+        "prefix": "icon:renren[]",
+        "body": [ "icon:renren[]" ,"$0" ],
+        "description": "adding icon:renren "
+    },
+
+    "Insert icon:pagelines": {
+        "prefix": "icon:pagelines[]",
+        "body": [ "icon:pagelines[]" ,"$0" ],
+        "description": "adding icon:pagelines "
+    },
+
+    "Insert icon:stack-exchange": {
+        "prefix": "icon:stack-exchange[]",
+        "body": [ "icon:stack-exchange[]" ,"$0" ],
+        "description": "adding icon:stack-exchange "
+    },
+
+    "Insert icon:arrow-circle-o-right": {
+        "prefix": "icon:arrow-circle-o-right[]",
+        "body": [ "icon:arrow-circle-o-right[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-o-right "
+    },
+
+    "Insert icon:arrow-circle-o-left": {
+        "prefix": "icon:arrow-circle-o-left[]",
+        "body": [ "icon:arrow-circle-o-left[]" ,"$0" ],
+        "description": "adding icon:arrow-circle-o-left "
+    },
+
+    "Insert icon:caret-square-o-left": {
+        "prefix": "icon:caret-square-o-left[]",
+        "body": [ "icon:caret-square-o-left[]" ,"$0" ],
+        "description": "adding icon:caret-square-o-left "
+    },
+
+    "Insert icon:dot-circle-o": {
+        "prefix": "icon:dot-circle-o[]",
+        "body": [ "icon:dot-circle-o[]" ,"$0" ],
+        "description": "adding icon:dot-circle-o "
+    },
+
+    "Insert icon:wheelchair": {
+        "prefix": "icon:wheelchair[]",
+        "body": [ "icon:wheelchair[]" ,"$0" ],
+        "description": "adding icon:wheelchair "
+    },
+
+    "Insert icon:vimeo-square": {
+        "prefix": "icon:vimeo-square[]",
+        "body": [ "icon:vimeo-square[]" ,"$0" ],
+        "description": "adding icon:vimeo-square "
+    },
+
+    "Insert icon:try": {
+        "prefix": "icon:try[]",
+        "body": [ "icon:try[]" ,"$0" ],
+        "description": "adding icon:try "
+    },
+
+    "Insert icon:plus-square-o": {
+        "prefix": "icon:plus-square-o[]",
+        "body": [ "icon:plus-square-o[]" ,"$0" ],
+        "description": "adding icon:plus-square-o "
+    },
+
+    "Insert icon:space-shuttle": {
+        "prefix": "icon:space-shuttle[]",
+        "body": [ "icon:space-shuttle[]" ,"$0" ],
+        "description": "adding icon:space-shuttle "
+    },
+
+    "Insert icon:slack": {
+        "prefix": "icon:slack[]",
+        "body": [ "icon:slack[]" ,"$0" ],
+        "description": "adding icon:slack "
+    },
+
+    "Insert icon:envelope-square": {
+        "prefix": "icon:envelope-square[]",
+        "body": [ "icon:envelope-square[]" ,"$0" ],
+        "description": "adding icon:envelope-square "
+    },
+
+    "Insert icon:wordpress": {
+        "prefix": "icon:wordpress[]",
+        "body": [ "icon:wordpress[]" ,"$0" ],
+        "description": "adding icon:wordpress "
+    },
+
+    "Insert icon:openid": {
+        "prefix": "icon:openid[]",
+        "body": [ "icon:openid[]" ,"$0" ],
+        "description": "adding icon:openid "
+    },
+
+    "Insert icon:university": {
+        "prefix": "icon:university[]",
+        "body": [ "icon:university[]" ,"$0" ],
+        "description": "adding icon:university "
+    },
+
+    "Insert icon:graduation-cap": {
+        "prefix": "icon:graduation-cap[]",
+        "body": [ "icon:graduation-cap[]" ,"$0" ],
+        "description": "adding icon:graduation-cap "
+    },
+
+    "Insert icon:yahoo": {
+        "prefix": "icon:yahoo[]",
+        "body": [ "icon:yahoo[]" ,"$0" ],
+        "description": "adding icon:yahoo "
+    },
+
+    "Insert icon:google": {
+        "prefix": "icon:google[]",
+        "body": [ "icon:google[]" ,"$0" ],
+        "description": "adding icon:google "
+    },
+
+    "Insert icon:reddit": {
+        "prefix": "icon:reddit[]",
+        "body": [ "icon:reddit[]" ,"$0" ],
+        "description": "adding icon:reddit "
+    },
+
+    "Insert icon:reddit-square": {
+        "prefix": "icon:reddit-square[]",
+        "body": [ "icon:reddit-square[]" ,"$0" ],
+        "description": "adding icon:reddit-square "
+    },
+
+    "Insert icon:stumbleupon-circle": {
+        "prefix": "icon:stumbleupon-circle[]",
+        "body": [ "icon:stumbleupon-circle[]" ,"$0" ],
+        "description": "adding icon:stumbleupon-circle "
+    },
+
+    "Insert icon:stumbleupon": {
+        "prefix": "icon:stumbleupon[]",
+        "body": [ "icon:stumbleupon[]" ,"$0" ],
+        "description": "adding icon:stumbleupon "
+    },
+
+    "Insert icon:delicious": {
+        "prefix": "icon:delicious[]",
+        "body": [ "icon:delicious[]" ,"$0" ],
+        "description": "adding icon:delicious "
+    },
+
+    "Insert icon:digg": {
+        "prefix": "icon:digg[]",
+        "body": [ "icon:digg[]" ,"$0" ],
+        "description": "adding icon:digg "
+    },
+
+    "Insert icon:pied-piper-pp": {
+        "prefix": "icon:pied-piper-pp[]",
+        "body": [ "icon:pied-piper-pp[]" ,"$0" ],
+        "description": "adding icon:pied-piper-pp "
+    },
+
+    "Insert icon:pied-piper-alt": {
+        "prefix": "icon:pied-piper-alt[]",
+        "body": [ "icon:pied-piper-alt[]" ,"$0" ],
+        "description": "adding icon:pied-piper-alt "
+    },
+
+    "Insert icon:drupal": {
+        "prefix": "icon:drupal[]",
+        "body": [ "icon:drupal[]" ,"$0" ],
+        "description": "adding icon:drupal "
+    },
+
+    "Insert icon:joomla": {
+        "prefix": "icon:joomla[]",
+        "body": [ "icon:joomla[]" ,"$0" ],
+        "description": "adding icon:joomla "
+    },
+
+    "Insert icon:language": {
+        "prefix": "icon:language[]",
+        "body": [ "icon:language[]" ,"$0" ],
+        "description": "adding icon:language "
+    },
+
+    "Insert icon:fax": {
+        "prefix": "icon:fax[]",
+        "body": [ "icon:fax[]" ,"$0" ],
+        "description": "adding icon:fax "
+    },
+
+    "Insert icon:building": {
+        "prefix": "icon:building[]",
+        "body": [ "icon:building[]" ,"$0" ],
+        "description": "adding icon:building "
+    },
+
+    "Insert icon:child": {
+        "prefix": "icon:child[]",
+        "body": [ "icon:child[]" ,"$0" ],
+        "description": "adding icon:child "
+    },
+
+    "Insert icon:paw": {
+        "prefix": "icon:paw[]",
+        "body": [ "icon:paw[]" ,"$0" ],
+        "description": "adding icon:paw "
+    },
+
+    "Insert icon:spoon": {
+        "prefix": "icon:spoon[]",
+        "body": [ "icon:spoon[]" ,"$0" ],
+        "description": "adding icon:spoon "
+    },
+
+    "Insert icon:cube": {
+        "prefix": "icon:cube[]",
+        "body": [ "icon:cube[]" ,"$0" ],
+        "description": "adding icon:cube "
+    },
+
+    "Insert icon:cubes": {
+        "prefix": "icon:cubes[]",
+        "body": [ "icon:cubes[]" ,"$0" ],
+        "description": "adding icon:cubes "
+    },
+
+    "Insert icon:behance": {
+        "prefix": "icon:behance[]",
+        "body": [ "icon:behance[]" ,"$0" ],
+        "description": "adding icon:behance "
+    },
+
+    "Insert icon:behance-square": {
+        "prefix": "icon:behance-square[]",
+        "body": [ "icon:behance-square[]" ,"$0" ],
+        "description": "adding icon:behance-square "
+    },
+
+    "Insert icon:steam": {
+        "prefix": "icon:steam[]",
+        "body": [ "icon:steam[]" ,"$0" ],
+        "description": "adding icon:steam "
+    },
+
+    "Insert icon:steam-square": {
+        "prefix": "icon:steam-square[]",
+        "body": [ "icon:steam-square[]" ,"$0" ],
+        "description": "adding icon:steam-square "
+    },
+
+    "Insert icon:recycle": {
+        "prefix": "icon:recycle[]",
+        "body": [ "icon:recycle[]" ,"$0" ],
+        "description": "adding icon:recycle "
+    },
+
+    "Insert icon:car": {
+        "prefix": "icon:car[]",
+        "body": [ "icon:car[]" ,"$0" ],
+        "description": "adding icon:car "
+    },
+
+    "Insert icon:taxi": {
+        "prefix": "icon:taxi[]",
+        "body": [ "icon:taxi[]" ,"$0" ],
+        "description": "adding icon:taxi "
+    },
+
+    "Insert icon:tree": {
+        "prefix": "icon:tree[]",
+        "body": [ "icon:tree[]" ,"$0" ],
+        "description": "adding icon:tree "
+    },
+
+    "Insert icon:spotify": {
+        "prefix": "icon:spotify[]",
+        "body": [ "icon:spotify[]" ,"$0" ],
+        "description": "adding icon:spotify "
+    },
+
+    "Insert icon:deviantart": {
+        "prefix": "icon:deviantart[]",
+        "body": [ "icon:deviantart[]" ,"$0" ],
+        "description": "adding icon:deviantart "
+    },
+
+    "Insert icon:soundcloud": {
+        "prefix": "icon:soundcloud[]",
+        "body": [ "icon:soundcloud[]" ,"$0" ],
+        "description": "adding icon:soundcloud "
+    },
+
+    "Insert icon:database": {
+        "prefix": "icon:database[]",
+        "body": [ "icon:database[]" ,"$0" ],
+        "description": "adding icon:database "
+    },
+
+    "Insert icon:file-pdf-o": {
+        "prefix": "icon:file-pdf-o[]",
+        "body": [ "icon:file-pdf-o[]" ,"$0" ],
+        "description": "adding icon:file-pdf-o "
+    },
+
+    "Insert icon:file-word-o": {
+        "prefix": "icon:file-word-o[]",
+        "body": [ "icon:file-word-o[]" ,"$0" ],
+        "description": "adding icon:file-word-o "
+    },
+
+    "Insert icon:file-excel-o": {
+        "prefix": "icon:file-excel-o[]",
+        "body": [ "icon:file-excel-o[]" ,"$0" ],
+        "description": "adding icon:file-excel-o "
+    },
+
+    "Insert icon:file-powerpoint-o": {
+        "prefix": "icon:file-powerpoint-o[]",
+        "body": [ "icon:file-powerpoint-o[]" ,"$0" ],
+        "description": "adding icon:file-powerpoint-o "
+    },
+
+    "Insert icon:file-image-o": {
+        "prefix": "icon:file-image-o[]",
+        "body": [ "icon:file-image-o[]" ,"$0" ],
+        "description": "adding icon:file-image-o "
+    },
+
+    "Insert icon:file-archive-o": {
+        "prefix": "icon:file-archive-o[]",
+        "body": [ "icon:file-archive-o[]" ,"$0" ],
+        "description": "adding icon:file-archive-o "
+    },
+
+    "Insert icon:file-audio-o": {
+        "prefix": "icon:file-audio-o[]",
+        "body": [ "icon:file-audio-o[]" ,"$0" ],
+        "description": "adding icon:file-audio-o "
+    },
+
+    "Insert icon:file-video-o": {
+        "prefix": "icon:file-video-o[]",
+        "body": [ "icon:file-video-o[]" ,"$0" ],
+        "description": "adding icon:file-video-o "
+    },
+
+    "Insert icon:file-code-o": {
+        "prefix": "icon:file-code-o[]",
+        "body": [ "icon:file-code-o[]" ,"$0" ],
+        "description": "adding icon:file-code-o "
+    },
+
+    "Insert icon:vine": {
+        "prefix": "icon:vine[]",
+        "body": [ "icon:vine[]" ,"$0" ],
+        "description": "adding icon:vine "
+    },
+
+    "Insert icon:codepen": {
+        "prefix": "icon:codepen[]",
+        "body": [ "icon:codepen[]" ,"$0" ],
+        "description": "adding icon:codepen "
+    },
+
+    "Insert icon:jsfiddle": {
+        "prefix": "icon:jsfiddle[]",
+        "body": [ "icon:jsfiddle[]" ,"$0" ],
+        "description": "adding icon:jsfiddle "
+    },
+
+    "Insert icon:life-ring": {
+        "prefix": "icon:life-ring[]",
+        "body": [ "icon:life-ring[]" ,"$0" ],
+        "description": "adding icon:life-ring "
+    },
+
+    "Insert icon:circle-o-notch": {
+        "prefix": "icon:circle-o-notch[]",
+        "body": [ "icon:circle-o-notch[]" ,"$0" ],
+        "description": "adding icon:circle-o-notch "
+    },
+
+    "Insert icon:rebel": {
+        "prefix": "icon:rebel[]",
+        "body": [ "icon:rebel[]" ,"$0" ],
+        "description": "adding icon:rebel "
+    },
+
+    "Insert icon:empire": {
+        "prefix": "icon:empire[]",
+        "body": [ "icon:empire[]" ,"$0" ],
+        "description": "adding icon:empire "
+    },
+
+    "Insert icon:git-square": {
+        "prefix": "icon:git-square[]",
+        "body": [ "icon:git-square[]" ,"$0" ],
+        "description": "adding icon:git-square "
+    },
+
+    "Insert icon:git": {
+        "prefix": "icon:git[]",
+        "body": [ "icon:git[]" ,"$0" ],
+        "description": "adding icon:git "
+    },
+
+    "Insert icon:hacker-news": {
+        "prefix": "icon:hacker-news[]",
+        "body": [ "icon:hacker-news[]" ,"$0" ],
+        "description": "adding icon:hacker-news "
+    },
+
+    "Insert icon:tencent-weibo": {
+        "prefix": "icon:tencent-weibo[]",
+        "body": [ "icon:tencent-weibo[]" ,"$0" ],
+        "description": "adding icon:tencent-weibo "
+    },
+
+    "Insert icon:qq": {
+        "prefix": "icon:qq[]",
+        "body": [ "icon:qq[]" ,"$0" ],
+        "description": "adding icon:qq "
+    },
+
+    "Insert icon:weixin": {
+        "prefix": "icon:weixin[]",
+        "body": [ "icon:weixin[]" ,"$0" ],
+        "description": "adding icon:weixin "
+    },
+
+    "Insert icon:paper-plane": {
+        "prefix": "icon:paper-plane[]",
+        "body": [ "icon:paper-plane[]" ,"$0" ],
+        "description": "adding icon:paper-plane "
+    },
+
+    "Insert icon:paper-plane-o": {
+        "prefix": "icon:paper-plane-o[]",
+        "body": [ "icon:paper-plane-o[]" ,"$0" ],
+        "description": "adding icon:paper-plane-o "
+    },
+
+    "Insert icon:history": {
+        "prefix": "icon:history[]",
+        "body": [ "icon:history[]" ,"$0" ],
+        "description": "adding icon:history "
+    },
+
+    "Insert icon:circle-thin": {
+        "prefix": "icon:circle-thin[]",
+        "body": [ "icon:circle-thin[]" ,"$0" ],
+        "description": "adding icon:circle-thin "
+    },
+
+    "Insert icon:header": {
+        "prefix": "icon:header[]",
+        "body": [ "icon:header[]" ,"$0" ],
+        "description": "adding icon:header "
+    },
+
+    "Insert icon:paragraph": {
+        "prefix": "icon:paragraph[]",
+        "body": [ "icon:paragraph[]" ,"$0" ],
+        "description": "adding icon:paragraph "
+    },
+
+    "Insert icon:sliders": {
+        "prefix": "icon:sliders[]",
+        "body": [ "icon:sliders[]" ,"$0" ],
+        "description": "adding icon:sliders "
+    },
+
+    "Insert icon:share-alt": {
+        "prefix": "icon:share-alt[]",
+        "body": [ "icon:share-alt[]" ,"$0" ],
+        "description": "adding icon:share-alt "
+    },
+
+    "Insert icon:share-alt-square": {
+        "prefix": "icon:share-alt-square[]",
+        "body": [ "icon:share-alt-square[]" ,"$0" ],
+        "description": "adding icon:share-alt-square "
+    },
+
+    "Insert icon:bomb": {
+        "prefix": "icon:bomb[]",
+        "body": [ "icon:bomb[]" ,"$0" ],
+        "description": "adding icon:bomb "
+    },
+
+    "Insert icon:futbol-o": {
+        "prefix": "icon:futbol-o[]",
+        "body": [ "icon:futbol-o[]" ,"$0" ],
+        "description": "adding icon:futbol-o "
+    },
+
+    "Insert icon:tty": {
+        "prefix": "icon:tty[]",
+        "body": [ "icon:tty[]" ,"$0" ],
+        "description": "adding icon:tty "
+    },
+
+    "Insert icon:binoculars": {
+        "prefix": "icon:binoculars[]",
+        "body": [ "icon:binoculars[]" ,"$0" ],
+        "description": "adding icon:binoculars "
+    },
+
+    "Insert icon:plug": {
+        "prefix": "icon:plug[]",
+        "body": [ "icon:plug[]" ,"$0" ],
+        "description": "adding icon:plug "
+    },
+
+    "Insert icon:slideshare": {
+        "prefix": "icon:slideshare[]",
+        "body": [ "icon:slideshare[]" ,"$0" ],
+        "description": "adding icon:slideshare "
+    },
+
+    "Insert icon:twitch": {
+        "prefix": "icon:twitch[]",
+        "body": [ "icon:twitch[]" ,"$0" ],
+        "description": "adding icon:twitch "
+    },
+
+    "Insert icon:yelp": {
+        "prefix": "icon:yelp[]",
+        "body": [ "icon:yelp[]" ,"$0" ],
+        "description": "adding icon:yelp "
+    },
+
+    "Insert icon:newspaper-o": {
+        "prefix": "icon:newspaper-o[]",
+        "body": [ "icon:newspaper-o[]" ,"$0" ],
+        "description": "adding icon:newspaper-o "
+    },
+
+    "Insert icon:wifi": {
+        "prefix": "icon:wifi[]",
+        "body": [ "icon:wifi[]" ,"$0" ],
+        "description": "adding icon:wifi "
+    },
+
+    "Insert icon:calculator": {
+        "prefix": "icon:calculator[]",
+        "body": [ "icon:calculator[]" ,"$0" ],
+        "description": "adding icon:calculator "
+    },
+
+    "Insert icon:paypal": {
+        "prefix": "icon:paypal[]",
+        "body": [ "icon:paypal[]" ,"$0" ],
+        "description": "adding icon:paypal "
+    },
+
+    "Insert icon:google-wallet": {
+        "prefix": "icon:google-wallet[]",
+        "body": [ "icon:google-wallet[]" ,"$0" ],
+        "description": "adding icon:google-wallet "
+    },
+
+    "Insert icon:cc-visa": {
+        "prefix": "icon:cc-visa[]",
+        "body": [ "icon:cc-visa[]" ,"$0" ],
+        "description": "adding icon:cc-visa "
+    },
+
+    "Insert icon:cc-mastercard": {
+        "prefix": "icon:cc-mastercard[]",
+        "body": [ "icon:cc-mastercard[]" ,"$0" ],
+        "description": "adding icon:cc-mastercard "
+    },
+
+    "Insert icon:cc-discover": {
+        "prefix": "icon:cc-discover[]",
+        "body": [ "icon:cc-discover[]" ,"$0" ],
+        "description": "adding icon:cc-discover "
+    },
+
+    "Insert icon:cc-amex": {
+        "prefix": "icon:cc-amex[]",
+        "body": [ "icon:cc-amex[]" ,"$0" ],
+        "description": "adding icon:cc-amex "
+    },
+
+    "Insert icon:cc-paypal": {
+        "prefix": "icon:cc-paypal[]",
+        "body": [ "icon:cc-paypal[]" ,"$0" ],
+        "description": "adding icon:cc-paypal "
+    },
+
+    "Insert icon:cc-stripe": {
+        "prefix": "icon:cc-stripe[]",
+        "body": [ "icon:cc-stripe[]" ,"$0" ],
+        "description": "adding icon:cc-stripe "
+    },
+
+    "Insert icon:bell-slash": {
+        "prefix": "icon:bell-slash[]",
+        "body": [ "icon:bell-slash[]" ,"$0" ],
+        "description": "adding icon:bell-slash "
+    },
+
+    "Insert icon:bell-slash-o": {
+        "prefix": "icon:bell-slash-o[]",
+        "body": [ "icon:bell-slash-o[]" ,"$0" ],
+        "description": "adding icon:bell-slash-o "
+    },
+
+    "Insert icon:trash": {
+        "prefix": "icon:trash[]",
+        "body": [ "icon:trash[]" ,"$0" ],
+        "description": "adding icon:trash "
+    },
+
+    "Insert icon:copyright": {
+        "prefix": "icon:copyright[]",
+        "body": [ "icon:copyright[]" ,"$0" ],
+        "description": "adding icon:copyright "
+    },
+
+    "Insert icon:at": {
+        "prefix": "icon:at[]",
+        "body": [ "icon:at[]" ,"$0" ],
+        "description": "adding icon:at "
+    },
+
+    "Insert icon:eyedropper": {
+        "prefix": "icon:eyedropper[]",
+        "body": [ "icon:eyedropper[]" ,"$0" ],
+        "description": "adding icon:eyedropper "
+    },
+
+    "Insert icon:paint-brush": {
+        "prefix": "icon:paint-brush[]",
+        "body": [ "icon:paint-brush[]" ,"$0" ],
+        "description": "adding icon:paint-brush "
+    },
+
+    "Insert icon:birthday-cake": {
+        "prefix": "icon:birthday-cake[]",
+        "body": [ "icon:birthday-cake[]" ,"$0" ],
+        "description": "adding icon:birthday-cake "
+    },
+
+    "Insert icon:area-chart": {
+        "prefix": "icon:area-chart[]",
+        "body": [ "icon:area-chart[]" ,"$0" ],
+        "description": "adding icon:area-chart "
+    },
+
+    "Insert icon:pie-chart": {
+        "prefix": "icon:pie-chart[]",
+        "body": [ "icon:pie-chart[]" ,"$0" ],
+        "description": "adding icon:pie-chart "
+    },
+
+    "Insert icon:line-chart": {
+        "prefix": "icon:line-chart[]",
+        "body": [ "icon:line-chart[]" ,"$0" ],
+        "description": "adding icon:line-chart "
+    },
+
+    "Insert icon:lastfm": {
+        "prefix": "icon:lastfm[]",
+        "body": [ "icon:lastfm[]" ,"$0" ],
+        "description": "adding icon:lastfm "
+    },
+
+    "Insert icon:lastfm-square": {
+        "prefix": "icon:lastfm-square[]",
+        "body": [ "icon:lastfm-square[]" ,"$0" ],
+        "description": "adding icon:lastfm-square "
+    },
+
+    "Insert icon:toggle-off": {
+        "prefix": "icon:toggle-off[]",
+        "body": [ "icon:toggle-off[]" ,"$0" ],
+        "description": "adding icon:toggle-off "
+    },
+
+    "Insert icon:toggle-on": {
+        "prefix": "icon:toggle-on[]",
+        "body": [ "icon:toggle-on[]" ,"$0" ],
+        "description": "adding icon:toggle-on "
+    },
+
+    "Insert icon:bicycle": {
+        "prefix": "icon:bicycle[]",
+        "body": [ "icon:bicycle[]" ,"$0" ],
+        "description": "adding icon:bicycle "
+    },
+
+    "Insert icon:bus": {
+        "prefix": "icon:bus[]",
+        "body": [ "icon:bus[]" ,"$0" ],
+        "description": "adding icon:bus "
+    },
+
+    "Insert icon:ioxhost": {
+        "prefix": "icon:ioxhost[]",
+        "body": [ "icon:ioxhost[]" ,"$0" ],
+        "description": "adding icon:ioxhost "
+    },
+
+    "Insert icon:angellist": {
+        "prefix": "icon:angellist[]",
+        "body": [ "icon:angellist[]" ,"$0" ],
+        "description": "adding icon:angellist "
+    },
+
+    "Insert icon:cc": {
+        "prefix": "icon:cc[]",
+        "body": [ "icon:cc[]" ,"$0" ],
+        "description": "adding icon:cc "
+    },
+
+    "Insert icon:ils": {
+        "prefix": "icon:ils[]",
+        "body": [ "icon:ils[]" ,"$0" ],
+        "description": "adding icon:ils "
+    },
+
+    "Insert icon:meanpath": {
+        "prefix": "icon:meanpath[]",
+        "body": [ "icon:meanpath[]" ,"$0" ],
+        "description": "adding icon:meanpath "
+    },
+
+    "Insert icon:buysellads": {
+        "prefix": "icon:buysellads[]",
+        "body": [ "icon:buysellads[]" ,"$0" ],
+        "description": "adding icon:buysellads "
+    },
+
+    "Insert icon:connectdevelop": {
+        "prefix": "icon:connectdevelop[]",
+        "body": [ "icon:connectdevelop[]" ,"$0" ],
+        "description": "adding icon:connectdevelop "
+    },
+
+    "Insert icon:dashcube": {
+        "prefix": "icon:dashcube[]",
+        "body": [ "icon:dashcube[]" ,"$0" ],
+        "description": "adding icon:dashcube "
+    },
+
+    "Insert icon:forumbee": {
+        "prefix": "icon:forumbee[]",
+        "body": [ "icon:forumbee[]" ,"$0" ],
+        "description": "adding icon:forumbee "
+    },
+
+    "Insert icon:leanpub": {
+        "prefix": "icon:leanpub[]",
+        "body": [ "icon:leanpub[]" ,"$0" ],
+        "description": "adding icon:leanpub "
+    },
+
+    "Insert icon:sellsy": {
+        "prefix": "icon:sellsy[]",
+        "body": [ "icon:sellsy[]" ,"$0" ],
+        "description": "adding icon:sellsy "
+    },
+
+    "Insert icon:shirtsinbulk": {
+        "prefix": "icon:shirtsinbulk[]",
+        "body": [ "icon:shirtsinbulk[]" ,"$0" ],
+        "description": "adding icon:shirtsinbulk "
+    },
+
+    "Insert icon:simplybuilt": {
+        "prefix": "icon:simplybuilt[]",
+        "body": [ "icon:simplybuilt[]" ,"$0" ],
+        "description": "adding icon:simplybuilt "
+    },
+
+    "Insert icon:skyatlas": {
+        "prefix": "icon:skyatlas[]",
+        "body": [ "icon:skyatlas[]" ,"$0" ],
+        "description": "adding icon:skyatlas "
+    },
+
+    "Insert icon:cart-plus": {
+        "prefix": "icon:cart-plus[]",
+        "body": [ "icon:cart-plus[]" ,"$0" ],
+        "description": "adding icon:cart-plus "
+    },
+
+    "Insert icon:cart-arrow-down": {
+        "prefix": "icon:cart-arrow-down[]",
+        "body": [ "icon:cart-arrow-down[]" ,"$0" ],
+        "description": "adding icon:cart-arrow-down "
+    },
+
+    "Insert icon:diamond": {
+        "prefix": "icon:diamond[]",
+        "body": [ "icon:diamond[]" ,"$0" ],
+        "description": "adding icon:diamond "
+    },
+
+    "Insert icon:ship": {
+        "prefix": "icon:ship[]",
+        "body": [ "icon:ship[]" ,"$0" ],
+        "description": "adding icon:ship "
+    },
+
+    "Insert icon:user-secret": {
+        "prefix": "icon:user-secret[]",
+        "body": [ "icon:user-secret[]" ,"$0" ],
+        "description": "adding icon:user-secret "
+    },
+
+    "Insert icon:motorcycle": {
+        "prefix": "icon:motorcycle[]",
+        "body": [ "icon:motorcycle[]" ,"$0" ],
+        "description": "adding icon:motorcycle "
+    },
+
+    "Insert icon:street-view": {
+        "prefix": "icon:street-view[]",
+        "body": [ "icon:street-view[]" ,"$0" ],
+        "description": "adding icon:street-view "
+    },
+
+    "Insert icon:heartbeat": {
+        "prefix": "icon:heartbeat[]",
+        "body": [ "icon:heartbeat[]" ,"$0" ],
+        "description": "adding icon:heartbeat "
+    },
+
+    "Insert icon:venus": {
+        "prefix": "icon:venus[]",
+        "body": [ "icon:venus[]" ,"$0" ],
+        "description": "adding icon:venus "
+    },
+
+    "Insert icon:mars": {
+        "prefix": "icon:mars[]",
+        "body": [ "icon:mars[]" ,"$0" ],
+        "description": "adding icon:mars "
+    },
+
+    "Insert icon:mercury": {
+        "prefix": "icon:mercury[]",
+        "body": [ "icon:mercury[]" ,"$0" ],
+        "description": "adding icon:mercury "
+    },
+
+    "Insert icon:transgender": {
+        "prefix": "icon:transgender[]",
+        "body": [ "icon:transgender[]" ,"$0" ],
+        "description": "adding icon:transgender "
+    },
+
+    "Insert icon:transgender-alt": {
+        "prefix": "icon:transgender-alt[]",
+        "body": [ "icon:transgender-alt[]" ,"$0" ],
+        "description": "adding icon:transgender-alt "
+    },
+
+    "Insert icon:venus-double": {
+        "prefix": "icon:venus-double[]",
+        "body": [ "icon:venus-double[]" ,"$0" ],
+        "description": "adding icon:venus-double "
+    },
+
+    "Insert icon:mars-double": {
+        "prefix": "icon:mars-double[]",
+        "body": [ "icon:mars-double[]" ,"$0" ],
+        "description": "adding icon:mars-double "
+    },
+
+    "Insert icon:venus-mars": {
+        "prefix": "icon:venus-mars[]",
+        "body": [ "icon:venus-mars[]" ,"$0" ],
+        "description": "adding icon:venus-mars "
+    },
+
+    "Insert icon:mars-stroke": {
+        "prefix": "icon:mars-stroke[]",
+        "body": [ "icon:mars-stroke[]" ,"$0" ],
+        "description": "adding icon:mars-stroke "
+    },
+
+    "Insert icon:mars-stroke-v": {
+        "prefix": "icon:mars-stroke-v[]",
+        "body": [ "icon:mars-stroke-v[]" ,"$0" ],
+        "description": "adding icon:mars-stroke-v "
+    },
+
+    "Insert icon:mars-stroke-h": {
+        "prefix": "icon:mars-stroke-h[]",
+        "body": [ "icon:mars-stroke-h[]" ,"$0" ],
+        "description": "adding icon:mars-stroke-h "
+    },
+
+    "Insert icon:neuter": {
+        "prefix": "icon:neuter[]",
+        "body": [ "icon:neuter[]" ,"$0" ],
+        "description": "adding icon:neuter "
+    },
+
+    "Insert icon:genderless": {
+        "prefix": "icon:genderless[]",
+        "body": [ "icon:genderless[]" ,"$0" ],
+        "description": "adding icon:genderless "
+    },
+
+    "Insert icon:facebook-official": {
+        "prefix": "icon:facebook-official[]",
+        "body": [ "icon:facebook-official[]" ,"$0" ],
+        "description": "adding icon:facebook-official "
+    },
+
+    "Insert icon:pinterest-p": {
+        "prefix": "icon:pinterest-p[]",
+        "body": [ "icon:pinterest-p[]" ,"$0" ],
+        "description": "adding icon:pinterest-p "
+    },
+
+    "Insert icon:whatsapp": {
+        "prefix": "icon:whatsapp[]",
+        "body": [ "icon:whatsapp[]" ,"$0" ],
+        "description": "adding icon:whatsapp "
+    },
+
+    "Insert icon:server": {
+        "prefix": "icon:server[]",
+        "body": [ "icon:server[]" ,"$0" ],
+        "description": "adding icon:server "
+    },
+
+    "Insert icon:user-plus": {
+        "prefix": "icon:user-plus[]",
+        "body": [ "icon:user-plus[]" ,"$0" ],
+        "description": "adding icon:user-plus "
+    },
+
+    "Insert icon:user-times": {
+        "prefix": "icon:user-times[]",
+        "body": [ "icon:user-times[]" ,"$0" ],
+        "description": "adding icon:user-times "
+    },
+
+    "Insert icon:bed": {
+        "prefix": "icon:bed[]",
+        "body": [ "icon:bed[]" ,"$0" ],
+        "description": "adding icon:bed "
+    },
+
+    "Insert icon:viacoin": {
+        "prefix": "icon:viacoin[]",
+        "body": [ "icon:viacoin[]" ,"$0" ],
+        "description": "adding icon:viacoin "
+    },
+
+    "Insert icon:train": {
+        "prefix": "icon:train[]",
+        "body": [ "icon:train[]" ,"$0" ],
+        "description": "adding icon:train "
+    },
+
+    "Insert icon:subway": {
+        "prefix": "icon:subway[]",
+        "body": [ "icon:subway[]" ,"$0" ],
+        "description": "adding icon:subway "
+    },
+
+    "Insert icon:medium": {
+        "prefix": "icon:medium[]",
+        "body": [ "icon:medium[]" ,"$0" ],
+        "description": "adding icon:medium "
+    },
+
+    "Insert icon:y-combinator": {
+        "prefix": "icon:y-combinator[]",
+        "body": [ "icon:y-combinator[]" ,"$0" ],
+        "description": "adding icon:y-combinator "
+    },
+
+    "Insert icon:optin-monster": {
+        "prefix": "icon:optin-monster[]",
+        "body": [ "icon:optin-monster[]" ,"$0" ],
+        "description": "adding icon:optin-monster "
+    },
+
+    "Insert icon:opencart": {
+        "prefix": "icon:opencart[]",
+        "body": [ "icon:opencart[]" ,"$0" ],
+        "description": "adding icon:opencart "
+    },
+
+    "Insert icon:expeditedssl": {
+        "prefix": "icon:expeditedssl[]",
+        "body": [ "icon:expeditedssl[]" ,"$0" ],
+        "description": "adding icon:expeditedssl "
+    },
+
+    "Insert icon:battery-full": {
+        "prefix": "icon:battery-full[]",
+        "body": [ "icon:battery-full[]" ,"$0" ],
+        "description": "adding icon:battery-full "
+    },
+
+    "Insert icon:battery-three-quarters": {
+        "prefix": "icon:battery-three-quarters[]",
+        "body": [ "icon:battery-three-quarters[]" ,"$0" ],
+        "description": "adding icon:battery-three-quarters "
+    },
+
+    "Insert icon:battery-half": {
+        "prefix": "icon:battery-half[]",
+        "body": [ "icon:battery-half[]" ,"$0" ],
+        "description": "adding icon:battery-half "
+    },
+
+    "Insert icon:battery-quarter": {
+        "prefix": "icon:battery-quarter[]",
+        "body": [ "icon:battery-quarter[]" ,"$0" ],
+        "description": "adding icon:battery-quarter "
+    },
+
+    "Insert icon:battery-empty": {
+        "prefix": "icon:battery-empty[]",
+        "body": [ "icon:battery-empty[]" ,"$0" ],
+        "description": "adding icon:battery-empty "
+    },
+
+    "Insert icon:mouse-pointer": {
+        "prefix": "icon:mouse-pointer[]",
+        "body": [ "icon:mouse-pointer[]" ,"$0" ],
+        "description": "adding icon:mouse-pointer "
+    },
+
+    "Insert icon:i-cursor": {
+        "prefix": "icon:i-cursor[]",
+        "body": [ "icon:i-cursor[]" ,"$0" ],
+        "description": "adding icon:i-cursor "
+    },
+
+    "Insert icon:object-group": {
+        "prefix": "icon:object-group[]",
+        "body": [ "icon:object-group[]" ,"$0" ],
+        "description": "adding icon:object-group "
+    },
+
+    "Insert icon:object-ungroup": {
+        "prefix": "icon:object-ungroup[]",
+        "body": [ "icon:object-ungroup[]" ,"$0" ],
+        "description": "adding icon:object-ungroup "
+    },
+
+    "Insert icon:sticky-note": {
+        "prefix": "icon:sticky-note[]",
+        "body": [ "icon:sticky-note[]" ,"$0" ],
+        "description": "adding icon:sticky-note "
+    },
+
+    "Insert icon:sticky-note-o": {
+        "prefix": "icon:sticky-note-o[]",
+        "body": [ "icon:sticky-note-o[]" ,"$0" ],
+        "description": "adding icon:sticky-note-o "
+    },
+
+    "Insert icon:cc-jcb": {
+        "prefix": "icon:cc-jcb[]",
+        "body": [ "icon:cc-jcb[]" ,"$0" ],
+        "description": "adding icon:cc-jcb "
+    },
+
+    "Insert icon:cc-diners-club": {
+        "prefix": "icon:cc-diners-club[]",
+        "body": [ "icon:cc-diners-club[]" ,"$0" ],
+        "description": "adding icon:cc-diners-club "
+    },
+
+    "Insert icon:clone": {
+        "prefix": "icon:clone[]",
+        "body": [ "icon:clone[]" ,"$0" ],
+        "description": "adding icon:clone "
+    },
+
+    "Insert icon:balance-scale": {
+        "prefix": "icon:balance-scale[]",
+        "body": [ "icon:balance-scale[]" ,"$0" ],
+        "description": "adding icon:balance-scale "
+    },
+
+    "Insert icon:hourglass-o": {
+        "prefix": "icon:hourglass-o[]",
+        "body": [ "icon:hourglass-o[]" ,"$0" ],
+        "description": "adding icon:hourglass-o "
+    },
+
+    "Insert icon:hourglass-start": {
+        "prefix": "icon:hourglass-start[]",
+        "body": [ "icon:hourglass-start[]" ,"$0" ],
+        "description": "adding icon:hourglass-start "
+    },
+
+    "Insert icon:hourglass-half": {
+        "prefix": "icon:hourglass-half[]",
+        "body": [ "icon:hourglass-half[]" ,"$0" ],
+        "description": "adding icon:hourglass-half "
+    },
+
+    "Insert icon:hourglass-end": {
+        "prefix": "icon:hourglass-end[]",
+        "body": [ "icon:hourglass-end[]" ,"$0" ],
+        "description": "adding icon:hourglass-end "
+    },
+
+    "Insert icon:hourglass": {
+        "prefix": "icon:hourglass[]",
+        "body": [ "icon:hourglass[]" ,"$0" ],
+        "description": "adding icon:hourglass "
+    },
+
+    "Insert icon:hand-rock-o": {
+        "prefix": "icon:hand-rock-o[]",
+        "body": [ "icon:hand-rock-o[]" ,"$0" ],
+        "description": "adding icon:hand-rock-o "
+    },
+
+    "Insert icon:hand-paper-o": {
+        "prefix": "icon:hand-paper-o[]",
+        "body": [ "icon:hand-paper-o[]" ,"$0" ],
+        "description": "adding icon:hand-paper-o "
+    },
+
+    "Insert icon:hand-scissors-o": {
+        "prefix": "icon:hand-scissors-o[]",
+        "body": [ "icon:hand-scissors-o[]" ,"$0" ],
+        "description": "adding icon:hand-scissors-o "
+    },
+
+    "Insert icon:hand-lizard-o": {
+        "prefix": "icon:hand-lizard-o[]",
+        "body": [ "icon:hand-lizard-o[]" ,"$0" ],
+        "description": "adding icon:hand-lizard-o "
+    },
+
+    "Insert icon:hand-spock-o": {
+        "prefix": "icon:hand-spock-o[]",
+        "body": [ "icon:hand-spock-o[]" ,"$0" ],
+        "description": "adding icon:hand-spock-o "
+    },
+
+    "Insert icon:hand-pointer-o": {
+        "prefix": "icon:hand-pointer-o[]",
+        "body": [ "icon:hand-pointer-o[]" ,"$0" ],
+        "description": "adding icon:hand-pointer-o "
+    },
+
+    "Insert icon:hand-peace-o": {
+        "prefix": "icon:hand-peace-o[]",
+        "body": [ "icon:hand-peace-o[]" ,"$0" ],
+        "description": "adding icon:hand-peace-o "
+    },
+
+    "Insert icon:trademark": {
+        "prefix": "icon:trademark[]",
+        "body": [ "icon:trademark[]" ,"$0" ],
+        "description": "adding icon:trademark "
+    },
+
+    "Insert icon:registered": {
+        "prefix": "icon:registered[]",
+        "body": [ "icon:registered[]" ,"$0" ],
+        "description": "adding icon:registered "
+    },
+
+    "Insert icon:creative-commons": {
+        "prefix": "icon:creative-commons[]",
+        "body": [ "icon:creative-commons[]" ,"$0" ],
+        "description": "adding icon:creative-commons "
+    },
+
+    "Insert icon:gg": {
+        "prefix": "icon:gg[]",
+        "body": [ "icon:gg[]" ,"$0" ],
+        "description": "adding icon:gg "
+    },
+
+    "Insert icon:gg-circle": {
+        "prefix": "icon:gg-circle[]",
+        "body": [ "icon:gg-circle[]" ,"$0" ],
+        "description": "adding icon:gg-circle "
+    },
+
+    "Insert icon:tripadvisor": {
+        "prefix": "icon:tripadvisor[]",
+        "body": [ "icon:tripadvisor[]" ,"$0" ],
+        "description": "adding icon:tripadvisor "
+    },
+
+    "Insert icon:odnoklassniki": {
+        "prefix": "icon:odnoklassniki[]",
+        "body": [ "icon:odnoklassniki[]" ,"$0" ],
+        "description": "adding icon:odnoklassniki "
+    },
+
+    "Insert icon:odnoklassniki-square": {
+        "prefix": "icon:odnoklassniki-square[]",
+        "body": [ "icon:odnoklassniki-square[]" ,"$0" ],
+        "description": "adding icon:odnoklassniki-square "
+    },
+
+    "Insert icon:get-pocket": {
+        "prefix": "icon:get-pocket[]",
+        "body": [ "icon:get-pocket[]" ,"$0" ],
+        "description": "adding icon:get-pocket "
+    },
+
+    "Insert icon:wikipedia-w": {
+        "prefix": "icon:wikipedia-w[]",
+        "body": [ "icon:wikipedia-w[]" ,"$0" ],
+        "description": "adding icon:wikipedia-w "
+    },
+
+    "Insert icon:safari": {
+        "prefix": "icon:safari[]",
+        "body": [ "icon:safari[]" ,"$0" ],
+        "description": "adding icon:safari "
+    },
+
+    "Insert icon:chrome": {
+        "prefix": "icon:chrome[]",
+        "body": [ "icon:chrome[]" ,"$0" ],
+        "description": "adding icon:chrome "
+    },
+
+    "Insert icon:firefox": {
+        "prefix": "icon:firefox[]",
+        "body": [ "icon:firefox[]" ,"$0" ],
+        "description": "adding icon:firefox "
+    },
+
+    "Insert icon:opera": {
+        "prefix": "icon:opera[]",
+        "body": [ "icon:opera[]" ,"$0" ],
+        "description": "adding icon:opera "
+    },
+
+    "Insert icon:internet-explorer": {
+        "prefix": "icon:internet-explorer[]",
+        "body": [ "icon:internet-explorer[]" ,"$0" ],
+        "description": "adding icon:internet-explorer "
+    },
+
+    "Insert icon:television": {
+        "prefix": "icon:television[]",
+        "body": [ "icon:television[]" ,"$0" ],
+        "description": "adding icon:television "
+    },
+
+    "Insert icon:contao": {
+        "prefix": "icon:contao[]",
+        "body": [ "icon:contao[]" ,"$0" ],
+        "description": "adding icon:contao "
+    },
+
+    "Insert icon:500px": {
+        "prefix": "icon:500px[]",
+        "body": [ "icon:500px[]" ,"$0" ],
+        "description": "adding icon:500px "
+    },
+
+    "Insert icon:amazon": {
+        "prefix": "icon:amazon[]",
+        "body": [ "icon:amazon[]" ,"$0" ],
+        "description": "adding icon:amazon "
+    },
+
+    "Insert icon:calendar-plus-o": {
+        "prefix": "icon:calendar-plus-o[]",
+        "body": [ "icon:calendar-plus-o[]" ,"$0" ],
+        "description": "adding icon:calendar-plus-o "
+    },
+
+    "Insert icon:calendar-minus-o": {
+        "prefix": "icon:calendar-minus-o[]",
+        "body": [ "icon:calendar-minus-o[]" ,"$0" ],
+        "description": "adding icon:calendar-minus-o "
+    },
+
+    "Insert icon:calendar-times-o": {
+        "prefix": "icon:calendar-times-o[]",
+        "body": [ "icon:calendar-times-o[]" ,"$0" ],
+        "description": "adding icon:calendar-times-o "
+    },
+
+    "Insert icon:calendar-check-o": {
+        "prefix": "icon:calendar-check-o[]",
+        "body": [ "icon:calendar-check-o[]" ,"$0" ],
+        "description": "adding icon:calendar-check-o "
+    },
+
+    "Insert icon:industry": {
+        "prefix": "icon:industry[]",
+        "body": [ "icon:industry[]" ,"$0" ],
+        "description": "adding icon:industry "
+    },
+
+    "Insert icon:map-pin": {
+        "prefix": "icon:map-pin[]",
+        "body": [ "icon:map-pin[]" ,"$0" ],
+        "description": "adding icon:map-pin "
+    },
+
+    "Insert icon:map-signs": {
+        "prefix": "icon:map-signs[]",
+        "body": [ "icon:map-signs[]" ,"$0" ],
+        "description": "adding icon:map-signs "
+    },
+
+    "Insert icon:map-o": {
+        "prefix": "icon:map-o[]",
+        "body": [ "icon:map-o[]" ,"$0" ],
+        "description": "adding icon:map-o "
+    },
+
+    "Insert icon:map": {
+        "prefix": "icon:map[]",
+        "body": [ "icon:map[]" ,"$0" ],
+        "description": "adding icon:map "
+    },
+
+    "Insert icon:commenting": {
+        "prefix": "icon:commenting[]",
+        "body": [ "icon:commenting[]" ,"$0" ],
+        "description": "adding icon:commenting "
+    },
+
+    "Insert icon:commenting-o": {
+        "prefix": "icon:commenting-o[]",
+        "body": [ "icon:commenting-o[]" ,"$0" ],
+        "description": "adding icon:commenting-o "
+    },
+
+    "Insert icon:houzz": {
+        "prefix": "icon:houzz[]",
+        "body": [ "icon:houzz[]" ,"$0" ],
+        "description": "adding icon:houzz "
+    },
+
+    "Insert icon:vimeo": {
+        "prefix": "icon:vimeo[]",
+        "body": [ "icon:vimeo[]" ,"$0" ],
+        "description": "adding icon:vimeo "
+    },
+
+    "Insert icon:black-tie": {
+        "prefix": "icon:black-tie[]",
+        "body": [ "icon:black-tie[]" ,"$0" ],
+        "description": "adding icon:black-tie "
+    },
+
+    "Insert icon:fonticons": {
+        "prefix": "icon:fonticons[]",
+        "body": [ "icon:fonticons[]" ,"$0" ],
+        "description": "adding icon:fonticons "
+    },
+
+    "Insert icon:reddit-alien": {
+        "prefix": "icon:reddit-alien[]",
+        "body": [ "icon:reddit-alien[]" ,"$0" ],
+        "description": "adding icon:reddit-alien "
+    },
+
+    "Insert icon:edge": {
+        "prefix": "icon:edge[]",
+        "body": [ "icon:edge[]" ,"$0" ],
+        "description": "adding icon:edge "
+    },
+
+    "Insert icon:credit-card-alt": {
+        "prefix": "icon:credit-card-alt[]",
+        "body": [ "icon:credit-card-alt[]" ,"$0" ],
+        "description": "adding icon:credit-card-alt "
+    },
+
+    "Insert icon:codiepie": {
+        "prefix": "icon:codiepie[]",
+        "body": [ "icon:codiepie[]" ,"$0" ],
+        "description": "adding icon:codiepie "
+    },
+
+    "Insert icon:modx": {
+        "prefix": "icon:modx[]",
+        "body": [ "icon:modx[]" ,"$0" ],
+        "description": "adding icon:modx "
+    },
+
+    "Insert icon:fort-awesome": {
+        "prefix": "icon:fort-awesome[]",
+        "body": [ "icon:fort-awesome[]" ,"$0" ],
+        "description": "adding icon:fort-awesome "
+    },
+
+    "Insert icon:usb": {
+        "prefix": "icon:usb[]",
+        "body": [ "icon:usb[]" ,"$0" ],
+        "description": "adding icon:usb "
+    },
+
+    "Insert icon:product-hunt": {
+        "prefix": "icon:product-hunt[]",
+        "body": [ "icon:product-hunt[]" ,"$0" ],
+        "description": "adding icon:product-hunt "
+    },
+
+    "Insert icon:mixcloud": {
+        "prefix": "icon:mixcloud[]",
+        "body": [ "icon:mixcloud[]" ,"$0" ],
+        "description": "adding icon:mixcloud "
+    },
+
+    "Insert icon:scribd": {
+        "prefix": "icon:scribd[]",
+        "body": [ "icon:scribd[]" ,"$0" ],
+        "description": "adding icon:scribd "
+    },
+
+    "Insert icon:pause-circle": {
+        "prefix": "icon:pause-circle[]",
+        "body": [ "icon:pause-circle[]" ,"$0" ],
+        "description": "adding icon:pause-circle "
+    },
+
+    "Insert icon:pause-circle-o": {
+        "prefix": "icon:pause-circle-o[]",
+        "body": [ "icon:pause-circle-o[]" ,"$0" ],
+        "description": "adding icon:pause-circle-o "
+    },
+
+    "Insert icon:stop-circle": {
+        "prefix": "icon:stop-circle[]",
+        "body": [ "icon:stop-circle[]" ,"$0" ],
+        "description": "adding icon:stop-circle "
+    },
+
+    "Insert icon:stop-circle-o": {
+        "prefix": "icon:stop-circle-o[]",
+        "body": [ "icon:stop-circle-o[]" ,"$0" ],
+        "description": "adding icon:stop-circle-o "
+    },
+
+    "Insert icon:shopping-bag": {
+        "prefix": "icon:shopping-bag[]",
+        "body": [ "icon:shopping-bag[]" ,"$0" ],
+        "description": "adding icon:shopping-bag "
+    },
+
+    "Insert icon:shopping-basket": {
+        "prefix": "icon:shopping-basket[]",
+        "body": [ "icon:shopping-basket[]" ,"$0" ],
+        "description": "adding icon:shopping-basket "
+    },
+
+    "Insert icon:hashtag": {
+        "prefix": "icon:hashtag[]",
+        "body": [ "icon:hashtag[]" ,"$0" ],
+        "description": "adding icon:hashtag "
+    },
+
+    "Insert icon:bluetooth": {
+        "prefix": "icon:bluetooth[]",
+        "body": [ "icon:bluetooth[]" ,"$0" ],
+        "description": "adding icon:bluetooth "
+    },
+
+    "Insert icon:bluetooth-b": {
+        "prefix": "icon:bluetooth-b[]",
+        "body": [ "icon:bluetooth-b[]" ,"$0" ],
+        "description": "adding icon:bluetooth-b "
+    },
+
+    "Insert icon:percent": {
+        "prefix": "icon:percent[]",
+        "body": [ "icon:percent[]" ,"$0" ],
+        "description": "adding icon:percent "
+    },
+
+    "Insert icon:gitlab": {
+        "prefix": "icon:gitlab[]",
+        "body": [ "icon:gitlab[]" ,"$0" ],
+        "description": "adding icon:gitlab "
+    },
+
+    "Insert icon:wpbeginner": {
+        "prefix": "icon:wpbeginner[]",
+        "body": [ "icon:wpbeginner[]" ,"$0" ],
+        "description": "adding icon:wpbeginner "
+    },
+
+    "Insert icon:wpforms": {
+        "prefix": "icon:wpforms[]",
+        "body": [ "icon:wpforms[]" ,"$0" ],
+        "description": "adding icon:wpforms "
+    },
+
+    "Insert icon:envira": {
+        "prefix": "icon:envira[]",
+        "body": [ "icon:envira[]" ,"$0" ],
+        "description": "adding icon:envira "
+    },
+
+    "Insert icon:universal-access": {
+        "prefix": "icon:universal-access[]",
+        "body": [ "icon:universal-access[]" ,"$0" ],
+        "description": "adding icon:universal-access "
+    },
+
+    "Insert icon:wheelchair-alt": {
+        "prefix": "icon:wheelchair-alt[]",
+        "body": [ "icon:wheelchair-alt[]" ,"$0" ],
+        "description": "adding icon:wheelchair-alt "
+    },
+
+    "Insert icon:question-circle-o": {
+        "prefix": "icon:question-circle-o[]",
+        "body": [ "icon:question-circle-o[]" ,"$0" ],
+        "description": "adding icon:question-circle-o "
+    },
+
+    "Insert icon:blind": {
+        "prefix": "icon:blind[]",
+        "body": [ "icon:blind[]" ,"$0" ],
+        "description": "adding icon:blind "
+    },
+
+    "Insert icon:audio-description": {
+        "prefix": "icon:audio-description[]",
+        "body": [ "icon:audio-description[]" ,"$0" ],
+        "description": "adding icon:audio-description "
+    },
+
+    "Insert icon:volume-control-phone": {
+        "prefix": "icon:volume-control-phone[]",
+        "body": [ "icon:volume-control-phone[]" ,"$0" ],
+        "description": "adding icon:volume-control-phone "
+    },
+
+    "Insert icon:braille": {
+        "prefix": "icon:braille[]",
+        "body": [ "icon:braille[]" ,"$0" ],
+        "description": "adding icon:braille "
+    },
+
+    "Insert icon:assistive-listening-systems": {
+        "prefix": "icon:assistive-listening-systems[]",
+        "body": [ "icon:assistive-listening-systems[]" ,"$0" ],
+        "description": "adding icon:assistive-listening-systems "
+    },
+
+    "Insert icon:american-sign-language-interpreting": {
+        "prefix": "icon:american-sign-language-interpreting[]",
+        "body": [ "icon:american-sign-language-interpreting[]" ,"$0" ],
+        "description": "adding icon:american-sign-language-interpreting "
+    },
+
+    "Insert icon:deaf": {
+        "prefix": "icon:deaf[]",
+        "body": [ "icon:deaf[]" ,"$0" ],
+        "description": "adding icon:deaf "
+    },
+
+    "Insert icon:glide": {
+        "prefix": "icon:glide[]",
+        "body": [ "icon:glide[]" ,"$0" ],
+        "description": "adding icon:glide "
+    },
+
+    "Insert icon:glide-g": {
+        "prefix": "icon:glide-g[]",
+        "body": [ "icon:glide-g[]" ,"$0" ],
+        "description": "adding icon:glide-g "
+    },
+
+    "Insert icon:sign-language": {
+        "prefix": "icon:sign-language[]",
+        "body": [ "icon:sign-language[]" ,"$0" ],
+        "description": "adding icon:sign-language "
+    },
+
+    "Insert icon:low-vision": {
+        "prefix": "icon:low-vision[]",
+        "body": [ "icon:low-vision[]" ,"$0" ],
+        "description": "adding icon:low-vision "
+    },
+
+    "Insert icon:viadeo": {
+        "prefix": "icon:viadeo[]",
+        "body": [ "icon:viadeo[]" ,"$0" ],
+        "description": "adding icon:viadeo "
+    },
+
+    "Insert icon:viadeo-square": {
+        "prefix": "icon:viadeo-square[]",
+        "body": [ "icon:viadeo-square[]" ,"$0" ],
+        "description": "adding icon:viadeo-square "
+    },
+
+    "Insert icon:snapchat": {
+        "prefix": "icon:snapchat[]",
+        "body": [ "icon:snapchat[]" ,"$0" ],
+        "description": "adding icon:snapchat "
+    },
+
+    "Insert icon:snapchat-ghost": {
+        "prefix": "icon:snapchat-ghost[]",
+        "body": [ "icon:snapchat-ghost[]" ,"$0" ],
+        "description": "adding icon:snapchat-ghost "
+    },
+
+    "Insert icon:snapchat-square": {
+        "prefix": "icon:snapchat-square[]",
+        "body": [ "icon:snapchat-square[]" ,"$0" ],
+        "description": "adding icon:snapchat-square "
+    },
+
+    "Insert icon:pied-piper": {
+        "prefix": "icon:pied-piper[]",
+        "body": [ "icon:pied-piper[]" ,"$0" ],
+        "description": "adding icon:pied-piper "
+    },
+
+    "Insert icon:first-order": {
+        "prefix": "icon:first-order[]",
+        "body": [ "icon:first-order[]" ,"$0" ],
+        "description": "adding icon:first-order "
+    },
+
+    "Insert icon:yoast": {
+        "prefix": "icon:yoast[]",
+        "body": [ "icon:yoast[]" ,"$0" ],
+        "description": "adding icon:yoast "
+    },
+
+    "Insert icon:themeisle": {
+        "prefix": "icon:themeisle[]",
+        "body": [ "icon:themeisle[]" ,"$0" ],
+        "description": "adding icon:themeisle "
+    },
+
+    "Insert icon:google-plus-official": {
+        "prefix": "icon:google-plus-official[]",
+        "body": [ "icon:google-plus-official[]" ,"$0" ],
+        "description": "adding icon:google-plus-official "
+    },
+
+    "Insert icon:font-awesome": {
+        "prefix": "icon:font-awesome[]",
+        "body": [ "icon:font-awesome[]" ,"$0" ],
+        "description": "adding icon:font-awesome "
+    },
+
+    "Insert icon:handshake-o": {
+        "prefix": "icon:handshake-o[]",
+        "body": [ "icon:handshake-o[]" ,"$0" ],
+        "description": "adding icon:handshake-o "
+    },
+
+    "Insert icon:envelope-open": {
+        "prefix": "icon:envelope-open[]",
+        "body": [ "icon:envelope-open[]" ,"$0" ],
+        "description": "adding icon:envelope-open "
+    },
+
+    "Insert icon:envelope-open-o": {
+        "prefix": "icon:envelope-open-o[]",
+        "body": [ "icon:envelope-open-o[]" ,"$0" ],
+        "description": "adding icon:envelope-open-o "
+    },
+
+    "Insert icon:linode": {
+        "prefix": "icon:linode[]",
+        "body": [ "icon:linode[]" ,"$0" ],
+        "description": "adding icon:linode "
+    },
+
+    "Insert icon:address-book": {
+        "prefix": "icon:address-book[]",
+        "body": [ "icon:address-book[]" ,"$0" ],
+        "description": "adding icon:address-book "
+    },
+
+    "Insert icon:address-book-o": {
+        "prefix": "icon:address-book-o[]",
+        "body": [ "icon:address-book-o[]" ,"$0" ],
+        "description": "adding icon:address-book-o "
+    },
+
+    "Insert icon:address-card": {
+        "prefix": "icon:address-card[]",
+        "body": [ "icon:address-card[]" ,"$0" ],
+        "description": "adding icon:address-card "
+    },
+
+    "Insert icon:address-card-o": {
+        "prefix": "icon:address-card-o[]",
+        "body": [ "icon:address-card-o[]" ,"$0" ],
+        "description": "adding icon:address-card-o "
+    },
+
+    "Insert icon:user-circle": {
+        "prefix": "icon:user-circle[]",
+        "body": [ "icon:user-circle[]" ,"$0" ],
+        "description": "adding icon:user-circle "
+    },
+
+    "Insert icon:user-circle-o": {
+        "prefix": "icon:user-circle-o[]",
+        "body": [ "icon:user-circle-o[]" ,"$0" ],
+        "description": "adding icon:user-circle-o "
+    },
+
+    "Insert icon:user-o": {
+        "prefix": "icon:user-o[]",
+        "body": [ "icon:user-o[]" ,"$0" ],
+        "description": "adding icon:user-o "
+    },
+
+    "Insert icon:id-badge": {
+        "prefix": "icon:id-badge[]",
+        "body": [ "icon:id-badge[]" ,"$0" ],
+        "description": "adding icon:id-badge "
+    },
+
+    "Insert icon:id-card": {
+        "prefix": "icon:id-card[]",
+        "body": [ "icon:id-card[]" ,"$0" ],
+        "description": "adding icon:id-card "
+    },
+
+    "Insert icon:id-card-o": {
+        "prefix": "icon:id-card-o[]",
+        "body": [ "icon:id-card-o[]" ,"$0" ],
+        "description": "adding icon:id-card-o "
+    },
+
+    "Insert icon:quora": {
+        "prefix": "icon:quora[]",
+        "body": [ "icon:quora[]" ,"$0" ],
+        "description": "adding icon:quora "
+    },
+
+    "Insert icon:free-code-camp": {
+        "prefix": "icon:free-code-camp[]",
+        "body": [ "icon:free-code-camp[]" ,"$0" ],
+        "description": "adding icon:free-code-camp "
+    },
+
+    "Insert icon:telegram": {
+        "prefix": "icon:telegram[]",
+        "body": [ "icon:telegram[]" ,"$0" ],
+        "description": "adding icon:telegram "
+    },
+
+    "Insert icon:thermometer-full": {
+        "prefix": "icon:thermometer-full[]",
+        "body": [ "icon:thermometer-full[]" ,"$0" ],
+        "description": "adding icon:thermometer-full "
+    },
+
+    "Insert icon:thermometer-three-quarters": {
+        "prefix": "icon:thermometer-three-quarters[]",
+        "body": [ "icon:thermometer-three-quarters[]" ,"$0" ],
+        "description": "adding icon:thermometer-three-quarters "
+    },
+
+    "Insert icon:thermometer-half": {
+        "prefix": "icon:thermometer-half[]",
+        "body": [ "icon:thermometer-half[]" ,"$0" ],
+        "description": "adding icon:thermometer-half "
+    },
+
+    "Insert icon:thermometer-quarter": {
+        "prefix": "icon:thermometer-quarter[]",
+        "body": [ "icon:thermometer-quarter[]" ,"$0" ],
+        "description": "adding icon:thermometer-quarter "
+    },
+
+    "Insert icon:thermometer-empty": {
+        "prefix": "icon:thermometer-empty[]",
+        "body": [ "icon:thermometer-empty[]" ,"$0" ],
+        "description": "adding icon:thermometer-empty "
+    },
+
+    "Insert icon:shower": {
+        "prefix": "icon:shower[]",
+        "body": [ "icon:shower[]" ,"$0" ],
+        "description": "adding icon:shower "
+    },
+
+    "Insert icon:bath": {
+        "prefix": "icon:bath[]",
+        "body": [ "icon:bath[]" ,"$0" ],
+        "description": "adding icon:bath "
+    },
+
+    "Insert icon:podcast": {
+        "prefix": "icon:podcast[]",
+        "body": [ "icon:podcast[]" ,"$0" ],
+        "description": "adding icon:podcast "
+    },
+
+    "Insert icon:window-maximize": {
+        "prefix": "icon:window-maximize[]",
+        "body": [ "icon:window-maximize[]" ,"$0" ],
+        "description": "adding icon:window-maximize "
+    },
+
+    "Insert icon:window-minimize": {
+        "prefix": "icon:window-minimize[]",
+        "body": [ "icon:window-minimize[]" ,"$0" ],
+        "description": "adding icon:window-minimize "
+    },
+
+    "Insert icon:window-restore": {
+        "prefix": "icon:window-restore[]",
+        "body": [ "icon:window-restore[]" ,"$0" ],
+        "description": "adding icon:window-restore "
+    },
+
+    "Insert icon:window-close": {
+        "prefix": "icon:window-close[]",
+        "body": [ "icon:window-close[]" ,"$0" ],
+        "description": "adding icon:window-close "
+    },
+
+    "Insert icon:window-close-o": {
+        "prefix": "icon:window-close-o[]",
+        "body": [ "icon:window-close-o[]" ,"$0" ],
+        "description": "adding icon:window-close-o "
+    },
+
+    "Insert icon:bandcamp": {
+        "prefix": "icon:bandcamp[]",
+        "body": [ "icon:bandcamp[]" ,"$0" ],
+        "description": "adding icon:bandcamp "
+    },
+
+    "Insert icon:grav": {
+        "prefix": "icon:grav[]",
+        "body": [ "icon:grav[]" ,"$0" ],
+        "description": "adding icon:grav "
+    },
+
+    "Insert icon:etsy": {
+        "prefix": "icon:etsy[]",
+        "body": [ "icon:etsy[]" ,"$0" ],
+        "description": "adding icon:etsy "
+    },
+
+    "Insert icon:imdb": {
+        "prefix": "icon:imdb[]",
+        "body": [ "icon:imdb[]" ,"$0" ],
+        "description": "adding icon:imdb "
+    },
+
+    "Insert icon:ravelry": {
+        "prefix": "icon:ravelry[]",
+        "body": [ "icon:ravelry[]" ,"$0" ],
+        "description": "adding icon:ravelry "
+    },
+
+    "Insert icon:eercast": {
+        "prefix": "icon:eercast[]",
+        "body": [ "icon:eercast[]" ,"$0" ],
+        "description": "adding icon:eercast "
+    },
+
+    "Insert icon:microchip": {
+        "prefix": "icon:microchip[]",
+        "body": [ "icon:microchip[]" ,"$0" ],
+        "description": "adding icon:microchip "
+    },
+
+    "Insert icon:snowflake-o": {
+        "prefix": "icon:snowflake-o[]",
+        "body": [ "icon:snowflake-o[]" ,"$0" ],
+        "description": "adding icon:snowflake-o "
+    },
+
+    "Insert icon:superpowers": {
+        "prefix": "icon:superpowers[]",
+        "body": [ "icon:superpowers[]" ,"$0" ],
+        "description": "adding icon:superpowers "
+    },
+
+    "Insert icon:wpexplorer": {
+        "prefix": "icon:wpexplorer[]",
+        "body": [ "icon:wpexplorer[]" ,"$0" ],
+        "description": "adding icon:wpexplorer "
+    },
+
+    "Insert icon:meetup": {
+        "prefix": "icon:meetup[]",
+        "body": [ "icon:meetup[]" ,"$0" ],
+        "description": "adding icon:meetup "
+    }
+
+}

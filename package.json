@@ -1,0 +1,24 @@
+{
+    "name": "asciidoc-icon-snippets",
+    "publisher": "SatakeRyota",
+    "displayName": "AsciiDoc Icon Snippets",
+    "description": "AsciiDoc Icon: Snippets and intellisense. Be careful ,please write ':icons: font'. Then do work well.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+
+    "keywords": ["asciidoc", "snippets" , "icon"],
+    "icon": "./image/lightbulb-solid.png",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "asciidoc",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
