@@ -29,7 +29,7 @@
         "snippets": [
             {
                 "language": "asciidoc",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/asciidoc.json"
             }
         ]
     },
