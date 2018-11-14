@@ -1,15 +1,3 @@
-ifndef::env-github[:icons: font]
-ifdef::env-github[]
-:status:
-:outfilesuffix: .adoc
-:caution-caption: :fire:
-:important-caption: :exclamation:
-:note-caption: :paperclip:
-:tip-caption: :bulb:
-:warning-caption: :warning:
-endif::[]
-:toc: left
-
 # AsciiDoc-Icon-Snippets
 
 ## what's this snippets?

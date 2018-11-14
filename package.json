@@ -17,7 +17,7 @@
     ],
 
     "keywords": ["asciidoc", "snippets" , "icon"],
-    "icon": "./image/lightbulb-solid.png",
+    "icon": "image/lightbulb-solid.png",
     "galleryBanner": {
         "color": "#C80000",
         "theme": "dark"
