@@ -4,6 +4,11 @@
     "displayName": "AsciiDoc Icon Snippets",
     "description": "AsciiDoc Icon: Snippets and intellisense. Be careful ,please write ':icons: font'. Then do work well.",
     "version": "0.0.1",
+    "author": {
+        "name": "SatakeRyota",
+        "email": "satake00157@gmail.com",
+        "url": "https://github.com/asdfg0280"
+    },
     "engines": {
         "vscode": "^1.29.0"
     },
@@ -13,6 +18,13 @@
 
     "keywords": ["asciidoc", "snippets" , "icon"],
     "icon": "./image/lightbulb-solid.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
+    "activationEvents": [
+        "onLanguage:asciidoc"
+    ],
     "contributes": {
         "snippets": [
             {
@@ -20,5 +32,13 @@
                 "path": "./snippets/snippets.json"
             }
         ]
+    },
+    "bugs": {
+        "url": "https://github.com/asdfg0280/asciidoc-icon-snippets/issues",
+        "email": "satake00157@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/asdfg0280/asciidoc-icon-snippets.git"
     }
 }
