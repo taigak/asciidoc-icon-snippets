@@ -1,12 +1,18 @@
 # AsciiDoc-Icon-Snippets
 
-## what's this snippets?
+![Version](https://vsmarketplacebadge.apphb.com/version/SatakeRyota.asciidoc-icon-snippets.svg)
+![Installs](https://vsmarketplacebadge.apphb.com/installs/SatakeRyota.asciidoc-icon-snippets.svg)
+![Ratings](https://vsmarketplacebadge.apphb.com/rating/SatakeRyota.asciidoc-icon-snippets.svg)
+
+## what's this snippets
 
 This snippets is intellisense of `icon:` .
 
-Please write `adoc.file` `:icons: font` .
+Please write your adoc.file in  `:icons: font` .
 
 icons font mode is enable to load awesome.css .
+
+---
 
 ## how to use
 

@@ -3,7 +3,7 @@
     "publisher": "SatakeRyota",
     "displayName": "AsciiDoc Icon Snippets",
     "description": "AsciiDoc Icon: Snippets and intellisense. Be careful ,please write ':icons: font'. Then do work well.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": {
         "name": "SatakeRyota",
         "email": "satake00157@gmail.com",
